@@ -1,0 +1,41 @@
+{
+  "ideal_customer_profiles": [
+    {
+      "icp_name": "Telecom Innovator",
+      "industry_vertical": [
+        "Telecommunications"
+      ],
+      "location": "India",
+      "key_challenges": [
+        "Modernizing legacy systems to improve service delivery",
+        "Enhancing customer engagement through digital channels",
+        "Automating processes to reduce operational costs"
+      ],
+      "buying_signals": [
+        "network upgrade",
+        "customer experience technology",
+        "partnership technology firm",
+        "digital transformation conference"
+      ]
+    },
+    {
+      "icp_name": "Financial Services Transformer",
+      "industry_vertical": [
+        "Financial Services",
+        "Insurance"
+      ],
+      "location": "India",
+      "key_challenges": [
+        "Transforming outdated systems to comply with new regulations",
+        "Developing user-centric digital products to attract younger demographics",
+        "Leveraging AI to optimize customer service and sales processes"
+      ],
+      "buying_signals": [
+        "launch new digital product",
+        "digital transformation budget",
+        "consulting firm innovation",
+        "improving customer digital experience"
+      ]
+    }
+  ]
+}

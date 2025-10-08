@@ -1,0 +1,22 @@
+# Greyamp Consulting Context Document
+
+## Company Overview
+Greyamp Consulting is a transformation and digital solutions firm that works with leading enterprises across various industries. The company is currently investing heavily in Al-first products and agentic solutions designed to accelerate sales, marketing, and client engagement. The primary goal is to apply technology to solve real-world business problems, specifically in B2B sales processes.
+
+## Core Services & Offerings
+Based on their website, Greyamp's key service pillars are:
+- **Digital Product Engineering:** Building scalable, resilient, and user-centric digital products. This includes full-stack development and modernizing legacy applications.
+- **Experience Design (UI/UX):** Focusing on creating intuitive and engaging user experiences through research, strategy, and design.
+- **DevOps & Cloud:** Enabling continuous delivery and infrastructure automation to help clients release software faster and more reliably. They work with major cloud platforms.
+- **Data & AI:** Helping clients leverage data for insights and build AI-driven solutions. This aligns with their investment in AI-first products.
+
+## Company Approach & Methodology
+Greyamp emphasizes a hands-on, co-creation model with its clients. They position themselves as partners, not just vendors. Their approach is rooted in a Lean-Agile mindset, focusing on delivering value incrementally and adapting to change. They aim for tangible, outcome-based results.
+
+## Target Clients & Past Successes
+The company works with leading enterprises. A look at their client logos suggests experience in industries such as:
+- **Telecommunications** (e.g., Axiata Digital)
+- **Financial Services & Insurance** (e.g., HDFC Life, CUNA Mutual)
+- **Retail & E-commerce**
+
+A successful project would involve helping a large enterprise modernize an old system, build a new customer-facing digital product, or use AI to improve a business process like sales or marketing.

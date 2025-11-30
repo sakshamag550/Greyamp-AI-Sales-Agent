@@ -1,4 +1,4 @@
-#**Greyamp AI Sales Agent**
+# **Greyamp AI Sales Agent**
 
 **Agentic AI pipeline to automate B2B lead discovery, enrichment, qualification and outreach for Greyamp Consulting.**
 
@@ -6,7 +6,7 @@
 
 ---
 
-##**Table of contents**
+## **Table of contents**
 
 - [Project Overview](#project-overview)
 - [Architecture & Agents](#architecture--agents)

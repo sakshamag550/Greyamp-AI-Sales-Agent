@@ -32,21 +32,25 @@ Greyamp solves problems related to legacy system modernization, building new use
 # This prompt instructs the LLM to act as a Chief Strategy Officer
 def create_icp_prompt(summary):
     prompt = f"""
-    You are a Chief Strategy Officer for a B2B digital transformation consultancy. Your task is to define two distinct and high-potential Ideal Customer Profiles (ICPs) based on the company summary provided below. The ultimate goal is to find prospects for the 'Agentic Al Sales Agent' to perform outreach.
+    You are a Chief Strategy Officer for a B2B digital transformation consultancy specializing in AI solutions. Your task is to define FIVE distinct and high-potential Ideal Customer Profiles (ICPs) based on the company summary provided below.
+
+    **CRITICAL INSTRUCTIONS:**
+    1.  All companies MUST be located in **India**.
+    2.  All "buying_signals" MUST be specifically related to **Artificial Intelligence (AI)**.
 
     **Company Summary:**
     ---
     {summary}
     ---
 
-    For each of the two ICPs, please provide the following details. Your final output MUST be a single, valid JSON object that is an array of the two ICPs.
+    Your final output MUST be a single, valid JSON object. The top-level key must be "ideal_customer_profiles", which contains an array of the five ICPs.
 
     **JSON Schema for each ICP:**
-    - `icp_name`: A descriptive name for this profile (e.g., "Enterprise Modernizer").
+    - `icp_name`: A descriptive name for this profile (e.g., "AI-Powered FinTech Innovator").
     - `industry_vertical`: The specific industry to target (e.g., ["Financial Services", "Insurance"]).
-    - `location`: The location of the company should be India.
-    - `key_challenges`: A list of 2-3 specific business or technology problems this company is likely facing.
-    - `buying_signals`: A list of 3-4 concrete, publicly discoverable events or "signals" that indicate this company is ready to buy. These signals will be used to search for leads.
+    - `location_cities`: A list of 2-3 key cities in India for this ICP (e.g., ["Bengaluru", "Mumbai", "Pune"]).
+    - `key_challenges`: A list of 2-3 specific business or technology problems this company is likely facing related to AI adoption.
+    - `buying_signals`: A list of 3-4 short, 2-4 word keywords that are publicly discoverable events or "signals" specifically related to AI (e.g., "launching a new AI product", "hiring AI engineers", "acquiring an AI startup").
     """
     return prompt
 

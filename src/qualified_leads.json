@@ -1,9 +1,226 @@
 [
   {
-    "company_name": "Optus",
-    "key_person_name": "Stephen Rue",
+    "company_name": "Department of Telecommunications (DoT)",
+    "location_city": "New Delhi",
+    "key_person_name": "Rajendra Kumar Garhwal",
+    "key_person_role": "Director",
+    "qualifying_event_signal": "The Department of Telecommunications is launching an Innovation and Regulatory Sandbox as part of its Sangam Initiative to promote AI-driven digital twin technology.",
+    "summary": "The Department of Telecommunications (DoT) in New Delhi is set to launch an Innovation and Regulatory Sandbox aimed at boosting AI-driven digital twin technology as part of its Sangam Initiative, promoting telecom-powered digital insights for smarter infrastructure planning."
+  },
+  {
+    "company_name": "NTT DATA",
+    "location_city": "Chennai",
+    "key_person_name": "Abhijit Dubey",
+    "key_person_role": "President and Chief Executive Officer",
+    "qualifying_event_signal": "NTT DATA has clinched a deal with AWS to deliver AI-powered contact centre solutions.",
+    "summary": "NTT DATA and AWS have entered into a partnership to offer AI-powered solutions for contact centres, targeting industries with complex customer lifecycles, such as financial services, healthcare, telecommunications, and retail."
+  },
+  {
+    "company_name": "Tech Mahindra Limited",
+    "location_city": "Pune",
+    "key_person_name": "Sham Arora",
+    "key_person_role": "Chief Technology Officer (CTO)",
+    "qualifying_event_signal": "Tech Mahindra is partnering with AMD to drive hybrid multi-cloud transformation for global enterprises.",
+    "summary": "Tech Mahindra and AMD have announced a partnership aimed at enabling enterprises in key sectors like manufacturing, finance, telecommunications, and healthcare to leverage AI-driven infrastructure through hybrid multi-cloud solutions."
+  },
+  {
+    "company_name": "ADT INDIA PRIVATE LIMITED",
+    "location_city": "New Delhi",
+    "key_person_name": "Jim DeVries",
+    "key_person_role": "President and CEO",
+    "qualifying_event_signal": "ADT, in partnership with Google, launched ADT Plus, a new home security system utilizing facial recognition for entry, marking a significant technology advancement.",
+    "summary": "ADT, in collaboration with Google, has launched a hands-free home security system, ADT Plus, which disarms automatically using facial recognition and a smartphone's location, offering advanced home entry solutions for $40 a month."
+  },
+  {
+    "company_name": "Jio Financial Services Limited",
+    "location_city": "Mumbai",
+    "key_person_name": "AR Ganesh",
+    "key_person_role": "Group Chief Technology Officer",
+    "qualifying_event_signal": "Jio Financial Services released an AI-generated brand marketing film for Diwali.",
+    "summary": "Jio Financial Services Limited launched an innovative AI-generated brand marketing film celebrating human connections during Diwali, showcasing its advanced technological capabilities and commitment to engaging with its audience."
+  },
+  {
+    "company_name": "Tally Solutions",
+    "location_city": "Bengaluru",
+    "key_person_name": "Tejas Goenka",
+    "key_person_role": "Managing Director",
+    "qualifying_event_signal": "Tally Solutions is betting on AI to simplify business operations for SMEs.",
+    "summary": "The article discusses how AI is being used for early risk detection to help employees manage healthcare expenses and highlights Tally Solutions' efforts to redefine SMEs' tech experiences by utilizing AI for business simplification."
+  },
+  {
+    "company_name": "SBI Life Insurance",
+    "location_city": "Mumbai",
+    "key_person_name": "Amit Jhingran",
+    "key_person_role": "Managing Director and CEO",
+    "qualifying_event_signal": "N/A",
+    "summary": "The article discusses Nischal Maheshwari's views on earnings season trends, highlighting positive developments in the life insurance sector with a focus on SBI Life Insurance, as well as in asset management, cautioning on Axis Bank and Vodafone Idea, and noticing growth in IT and government-backed manufacturing and defense sectors, with e-commerce showing potential but consumption facing challenges."
+  },
+  {
+    "company_name": "NuSummit",
+    "location_city": "Mumbai",
+    "key_person_name": "Anantharaman Sreenivasan",
+    "key_person_role": "Managing Director & Group Chief Executive Officer",
+    "qualifying_event_signal": "NuSummit integrates Origamis AI into its portfolio, enhancing AI solutions for financial services.",
+    "summary": "NuSummit, a digital transformation and cybersecurity provider, integrates Origamis AI into its portfolio to bolster its Data & AI offerings, aiding regulated financial institutions in safely scaling AI capabilities across compliance, risk management, and customer experience."
+  },
+  {
+    "company_name": "NuSummit",
+    "location_city": "Mumbai",
+    "key_person_name": "Anantharaman Sreenivasan",
+    "key_person_role": "Managing Director & Group Chief Executive Officer",
+    "qualifying_event_signal": "NuSummit announced the integration of Origamis AI into its Data & AI portfolio.",
+    "summary": "NuSummit, a provider of digital transformation and cybersecurity solutions to global capital markets and financial services, has strengthened its Data and AI capabilities by integrating Origamis AI into its platform, which will operate under NuSummit's AI brand."
+  },
+  {
+    "company_name": "AXA Technology Services India Private Limited",
+    "location_city": "Bengaluru",
+    "key_person_name": "Matthieu Caillat",
+    "key_person_role": "Group Chief Technology & AI Officer",
+    "qualifying_event_signal": "AXA is implementing intelligent AI agents to transform the insurance industry with innovations like faster claims and personalized policies.",
+    "summary": "The article discusses AXA's efforts to revolutionize the insurance industry by using AI to improve job functions rather than replace them, with an emphasis on faster claims processing, proactive support, and personalized policy offerings."
+  },
+  {
+    "company_name": "Colab Platforms Limited",
+    "location_city": "New Delhi",
+    "key_person_name": "N/A",
+    "key_person_role": "N/A",
+    "qualifying_event_signal": "Colab Platforms announces the launch of Colab Intelligence, a new subsidiary to expand into the AI sector.",
+    "summary": "Colab Platforms has launched a new subsidiary, Colab Intelligence, to enhance its presence in the AI industry, targeting high-growth sectors like gaming, esports, financial services, and retail. The AI industry is expected to grow significantly from USD 200 billion in 2024 to USD 1.8 trillion by 2030."
+  },
+  {
+    "company_name": "Provectus CorpAdvisors",
+    "location_city": "Ahmedabad",
+    "key_person_name": "Stepan Pushkarev",
+    "key_person_role": "Co-founder, CTO/CEO",
+    "qualifying_event_signal": "Provectus is leveraging Generative AI to transform risk management in financial services.",
+    "summary": "The article discusses how Provectus, in partnership with AWS, is utilizing Generative AI to innovate risk management solutions in the financial services sector."
+  },
+  {
+    "company_name": "Clearwater Analytics India Private Limited",
+    "location_city": "New Delhi",
+    "key_person_name": "Sandeep Sahai",
     "key_person_role": "CEO",
-    "qualifying_event_signal": "Experienced a major network failure during an upgrade, highlighting a need for modernization.",
-    "summary": "A technical failure at Optus, Australia's second-largest telecommunications provider, disrupted emergency call services, leading to the deaths of three people during a network upgrade, affecting 600 customers in South Australia, Western Australia, and the Northern Territory, prompting an investigation by the company."
+    "qualifying_event_signal": "Clearwater Analytics is highlighted as a company that could fend off the threat of AI disruption in the software industry.",
+    "summary": "The article discusses software companies that are considered resilient against the disruptions posed by AI advancements, with Clearwater Analytics being one of the firms recognized for its potential to withstand these market changes."
+  },
+  {
+    "company_name": "Boost Ads",
+    "location_city": "Ghaziabad",
+    "key_person_name": "Anaam Tiwary",
+    "key_person_role": "Founder",
+    "qualifying_event_signal": "Boost Ads has been awarded the status of an Official Google Partner in India.",
+    "summary": "Boost Ads, founded by Google Ads expert Anaam Tiwary, has achieved recognition as an official Google Partner in India. The New Delhi-based agency excels in delivering high-converting Google Ads campaigns through data-driven strategies and AI-powered optimization across industries such as real estate and e-commerce."
+  },
+  {
+    "company_name": "Reliance Industries Limited",
+    "location_city": "Mumbai",
+    "key_person_name": "Mukesh D. Ambani",
+    "key_person_role": "Chairman and Managing Director",
+    "qualifying_event_signal": "Reliance Industries' solar and giga factories are on track.",
+    "summary": "Analysts predict Reliance Industries Limited (RIL) to prioritize retail and fuel refining for growth, with a focus on new energy and AI for future growth. Despite missing Q2FY26 earnings estimates, RIL's ongoing projects in solar and giga factories are expected to enhance investor confidence and possibly lead to a company re-rating."
+  },
+  {
+    "company_name": "Salesforce India",
+    "location_city": "Hyderabad",
+    "key_person_name": "Arundhati Bhattacharya",
+    "key_person_role": "Chairperson and CEO",
+    "qualifying_event_signal": "BFSI, retail, and manufacturing sectors in India are expected to drive Salesforce's growth over the next three years.",
+    "summary": "Under the leadership of Arundhati Bhattacharya, Salesforce India has experienced significant growth in revenue and headcount since 2020. The company is focusing on sectors like BFSI, retail, and manufacturing to drive its growth in India, while also expanding its adoption of AI technologies in response to evolving market demands."
+  },
+  {
+    "company_name": "The Kerala State Civil Supplies Corporation Limited (Supplyco)",
+    "location_city": "Cochin, Kerala",
+    "key_person_name": "G R Anil",
+    "key_person_role": "Kerala Food and Civil Supplies Minister",
+    "qualifying_event_signal": "Supplyco is introducing a 10% discount for women on non-subsidized products from November 1.",
+    "summary": "Kerala Food and Civil Supplies Minister G R Anil announced that starting November 1, Supplyco outlets will offer a 10% discount on non-subsidized products specifically for women, as part of new food initiatives in the state. This move aims to enhance accessibility to quality rice varieties and other groceries, coinciding with the company's golden jubilee celebration. Supplyco acts as the execution arm for the state's Department of Food and Civil Supplies, headquartered at Ernakulam, India."
+  },
+  {
+    "company_name": "Streamoid Technologies",
+    "location_city": "Bengaluru",
+    "key_person_name": "Sri Manthani",
+    "key_person_role": "CEO, Chairman",
+    "qualifying_event_signal": "Streamoid launched CXO, an AI-powered command center that unifies product data, design, and catalog workflows.",
+    "summary": "Streamoid, headquartered in Bengaluru, launched CXO, an AI-driven command center designed to enhance brands' workflows in moving from concept to commerce, focusing on retail sectors like fashion, lifestyle, and more."
+  },
+  {
+    "company_name": "Glance",
+    "location_city": "Bengaluru",
+    "key_person_name": "Piyush Shah",
+    "key_person_role": "Co-Founder, InMobi & President, Glance",
+    "qualifying_event_signal": "Glance, in partnership with DirecTV, is enabling AI-generated screensavers featuring user faces on DirecTV's Gemini streaming devices.",
+    "summary": "DirecTV has partnered with Glance, an AI company, to create AI-generated screensavers for its Gemini streaming devices that feature the user's face."
+  },
+  {
+    "company_name": "Dassault Syst\u00e8mes",
+    "location_city": "Gurgaon",
+    "key_person_name": "Bernard Charl\u00e8s",
+    "key_person_role": "CEO",
+    "qualifying_event_signal": "Dassault Syst\u00e8mes is partnering with major manufacturers and startups to leverage virtual simulation and 3D twin technology, focusing on sectors like manufacturing, life sciences, and infrastructure.",
+    "summary": "Dassault Syst\u00e8mes is utilizing virtual simulation and 3D twin technology to transform industries beyond entertainment, collaborating with key players in manufacturing, life sciences, and infrastructure to integrate AI and virtual representations, thus enhancing product lifecycles and preparing a future-ready workforce with a strong emphasis on India's innovation potential."
+  },
+  {
+    "company_name": "L&T Technology Services",
+    "location_city": "Vadodara",
+    "key_person_name": "Amit",
+    "key_person_role": "Chief Executive Officer & Managing Director",
+    "qualifying_event_signal": "L&T Technology Services was recertified at Caterpillar's 2025 Supplier Excellence Recognition event, marking its reliability and operational excellence.",
+    "summary": "L&T Technology Services, a global leader in AI, Digital & ER&D Consulting Services, was recertified at Caterpillar's 2025 Supplier Excellence Recognition event, highlighting the company's strong commitment to supporting Caterpillar's global supply chain."
+  },
+  {
+    "company_name": "Google",
+    "location_city": "Visakhapatnam",
+    "key_person_name": "Sundar Pichai",
+    "key_person_role": "CEO",
+    "qualifying_event_signal": "Google's landmark investment in Visakhapatnam to transform it into a world-class AI hub.",
+    "summary": "The article discusses Google's significant investment in Visakhapatnam, championed by Andhra Pradesh BJP state president P.V.N. Madhav, to develop the city into India's hub for AI technology and computer chip manufacturing."
+  },
+  {
+    "company_name": "Samsung Electronics",
+    "location_city": "Noida",
+    "key_person_name": "Sanjeev Kumar",
+    "key_person_role": "CEO",
+    "qualifying_event_signal": "Samsung Electronics is expanding its production of image sensors in response to the upcoming iPhone 18, prompting its key testing partner to invest over $120 million in new equipment.",
+    "summary": "The news reports that the upcoming iPhone 18 is causing significant shifts in the semiconductor supply chain, with Samsung Electronics increasing its production of image sensors. This has led one of Samsung's key testing partners to commit over $120 million in investment for new equipment."
+  },
+  {
+    "company_name": "Board of Practical Training (Eastern Region)",
+    "location_city": "Kolkata",
+    "key_person_name": "S.M Ejaz Ahmad",
+    "key_person_role": "Director",
+    "qualifying_event_signal": "Board of Practical Training (ER) is focusing on AI and healthcare to make graduates and diploma holders industry-ready.",
+    "summary": "The Board of Practical Training (Eastern Region) celebrated its 50th anniversary by honoring outstanding contributors to the National Apprenticeship Training Scheme (NATS). Dr. S.M Ejaz Ahmad outlined the board's mission to prepare graduates and diploma holders for industry demands, with a focus on emerging sectors like AI and healthcare."
+  },
+  {
+    "company_name": "ThinkBio.Ai",
+    "location_city": "Kochi",
+    "key_person_name": "Pradeep Palazhi",
+    "key_person_role": "Co-Founder and CEO",
+    "qualifying_event_signal": "ThinkBio.Ai has acquired UK-based InfoHealth Solutions to enhance UK healthcare with AI-powered solutions.",
+    "summary": "ThinkBio.Ai, an AI-powered platforms and solutions company headquartered in Kochi, India, has acquired InfoHealth Solutions, a prominent UK hospital asset management software provider, to strengthen their presence in the healthcare sector and offer advanced AI-driven healthcare solutions."
+  },
+  {
+    "company_name": "Superhealth Hospitals Private Limited",
+    "location_city": "Bangalore",
+    "key_person_name": "Varun Dubey",
+    "key_person_role": "Founder and CEO",
+    "qualifying_event_signal": "Superhealth inked a multi-year agreement worth over Rs 2,500 crore with United Imaging Healthcare for advanced radiology systems across 100 upcoming hospitals.",
+    "summary": "Superhealth has signed a significant agreement worth Rs 2,500 crore with United Imaging Healthcare to supply, install, and manage advanced radiology systems in 100 new hospitals, enhancing their radiology capabilities with AI-ready MRI and other advanced imaging technologies."
+  },
+  {
+    "company_name": "Qure.ai",
+    "location_city": "Andheri, Maharashtra",
+    "key_person_name": "Prashant Warier",
+    "key_person_role": "Co-Founder and CEO",
+    "qualifying_event_signal": "Qure.ai plans to partner with 10,000 hospitals to expand use of its AI-based imaging tools.",
+    "summary": "Healthtech startup Qure.ai, backed by top investors and with a strong global presence, aims to revolutionize healthcare by tackling critical diseases using AI, with plans to partner with 10,000 hospitals over the next few years, focusing on scale, innovation, and key markets."
+  },
+  {
+    "company_name": "IndiaAI",
+    "location_city": "New Delhi",
+    "key_person_name": "Abhishek Singh",
+    "key_person_role": "CEO of the IndiaAI Mission",
+    "qualifying_event_signal": "The IndiaAI Mission, in collaboration with WHO, announced a global call for abstracts to highlight impactful and scalable AI solutions in healthcare.",
+    "summary": "The IndiaAI Mission, under the Ministry of Electronics and Information Technology, has partnered with the World Health Organization to invite abstracts showcasing impactful AI solutions in the healthcare sector, aimed at replicating and scaling these solutions across the Global South."
   }
 ]

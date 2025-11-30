@@ -1,12 +1,329 @@
 [
   {
-    "id": "046d2c3a504066b72a298b97822c8d90",
-    "title": "Tragic Outage: Optus Failure Leads to Multiple Deaths",
-    "description": "A technical failure at Optus, Australia's second-largest telecommunications provider, disrupted emergency call services, leading to the deaths of three people. The incident occurred during a network upgrade impacting 600 customers in South Australia, Western Australia, and the Northern Territory, prompting an investigation by the company.",
-    "content": "A recent technical glitch at Optus, Australia's second-largest telecom provider, resulted in a grave outcome: three fatalities after disrupted emergency call services. CEO Stephen Rue confirmed that the failure happened during a network upgrade, affe... [638 chars]",
-    "url": "https://www.devdiscourse.com/article/health/3633228-tragic-outage-optus-failure-leads-to-multiple-deaths",
-    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/19_09_2025_09_08_43_4943214.png?width=920&format=jpeg",
-    "publishedAt": "2025-09-19T09:08:51Z",
+    "id": "62123fa2d7135f8abe4602c3a6cf2c0f",
+    "title": "DoT to launch innovation and regulatory sandbox to boost AI",
+    "description": "DoT to launch innovation and regulatory sandbox to boost AI-driven digital twin technology - New Delhi, Oct 16 The Department of Telecommunications (DoT) is set to launch an Innovation and Regulatory Sandbox ... Get Latest News on Business only on lokmattimes.com",
+    "content": "New Delhi, Oct 16 The Department of Telecommunications (DoT) is set to launch an Innovation and Regulatory Sandbox as part of its Sangam Initiative to promote telecom-powered Digital Twins and AI-driven insights for smarter infrastructure planning, M... [2376 chars]",
+    "url": "https://www.lokmattimes.com/business/dot-to-launch-innovation-and-regulatory-sandbox-to-boost-ai-driven-digital-twin-technology/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202510163543385_202510.jpg",
+    "publishedAt": "2025-10-16T11:21:03Z",
+    "lang": "en",
+    "source": {
+      "id": "f2ddccedc9e60d844e7a1045928cad48",
+      "name": "Lokmat Times",
+      "url": "https://www.lokmattimes.com",
+      "country": "in"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "id": "cf19393acaf171db0efab6b56a87335e",
+    "title": "DoT to launch innovation and regulatory sandbox to boost AI",
+    "description": "DoT to launch innovation and regulatory sandbox to boost AI-driven digital twin technology - New Delhi, Oct 16 The Department of Telecommunications (DoT) is set to launch an Innovation and Regulatory Sandbox ... Get Latest News on Technology only on lokmattimes.com",
+    "content": "New Delhi, Oct 16 The Department of Telecommunications (DoT) is set to launch an Innovation and Regulatory Sandbox as part of its Sangam Initiative to promote telecom-powered Digital Twins and AI-driven insights for smarter infrastructure planning, M... [2376 chars]",
+    "url": "https://www.lokmattimes.com/technology/dot-to-launch-innovation-and-regulatory-sandbox-to-boost-ai-driven-digital-twin-technology-1/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202510163543385_202510.jpg",
+    "publishedAt": "2025-10-16T11:21:03Z",
+    "lang": "en",
+    "source": {
+      "id": "f2ddccedc9e60d844e7a1045928cad48",
+      "name": "Lokmat Times",
+      "url": "https://www.lokmattimes.com",
+      "country": "in"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "id": "483a7d273dd88d52141745d5df37ccc2",
+    "title": "India, UK sign pact to set up joint innovation centre for telecom, commit Rs 282 cr",
+    "description": "India and the UK have forged a strategic partnership at India Mobile Congress 2025, pledging \u00a324 million over four years to drive digital connectivity innovation. The India-UK Connectivity and Innovation Centre (CIC) will foster collaboration between researchers, innovators, and businesses, focusing on telecommunications, cybersecurity, and AI's role in transforming the sector.",
+    "content": "Synopsis\nIndia and the UK have forged a strategic partnership at India Mobile Congress 2025, pledging \u00a324 million over four years to drive digital connectivity innovation. The India-UK Connectivity and Innovation Centre (CIC) will foster collaboratio... [2943 chars]",
+    "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uk-sign-pact-to-set-up-joint-innovation-centre-for-telecom-commit-rs-282-cr/articleshow/124458829.cms",
+    "image": "https://img.etimg.com/thumb/msid-124459007,width-1200,height-630,imgsize-146824,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2025-10-10T15:46:00Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "id": "abe282083ff05232dda4572678e56e54",
+    "title": "NTT DATA, AWS Clinch Deal to Deliver AI-Powered Contact Centre Solutions",
+    "description": "The initiative will focus on industries with complex customer lifecycles, including financial services, healthcare, telecommunications and retail.",
+    "content": "Deloitte\u2019s A$440,000 \u2018Human Intelligence Problem\u2019\nAustralian Sen. Deborah O\u2019Neill at a senate hearing blasted that \u201cDeloitte has a human intelligence problem.\u201d\nYour Native Language Might Just Be Your Next Tech Skill\n\u201cStartups that can build culturall... [925 chars]",
+    "url": "https://analyticsindiamag.com/ai-news-updates/ntt-data-aws-clinch-deal-to-deliver-ai-powered-contact-centre-solutions/",
+    "image": "https://analyticsindiamag.com/wp-content/uploads/2022/09/cx.jpeg",
+    "publishedAt": "2025-10-06T12:43:53Z",
+    "lang": "en",
+    "source": {
+      "id": "628299239469ffa8b7dbb809aabbcc2e",
+      "name": "Analytics India Magazine",
+      "url": "https://analyticsindiamag.com",
+      "country": "in"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "id": "1f3e8752838842340045d4dc90c7d6a5",
+    "title": "Nvidia, Fujitsu to work together on AI robots",
+    "description": "US technology company Nvidia and Fujitsu, a Japanese telecommunications and computer maker, agreed Friday to work together on artificial intelligence to deliver smart robots and a variety of other innovations using Nvidia\u2019s computer chips.\n\u201cThe AI industrial revolution has already begun.",
+    "content": "US technology company Nvidia and Fujitsu, a Japanese telecommunications and computer maker, agreed Friday to work together on artificial intelligence to deliver smart robots and a variety of other innovations using Nvidia\u2019s computer chips. \u201cThe AI in... [1600 chars]",
+    "url": "https://www.dailypioneer.com/2025/business/nvidia--fujitsu-to-work-together-on-ai-robots.html",
+    "image": "https://www.dailypioneer.com/uploads/2025/story/images/big/nvidia--fujitsu-to-work-together-on-ai-robots-2025-10-04.jpg",
+    "publishedAt": "2025-10-04T00:00:00Z",
+    "lang": "en",
+    "source": {
+      "id": "28e6020d9bb5ca0074bc34f8478ec6b8",
+      "name": "The Pioneer",
+      "url": "https://www.dailypioneer.com",
+      "country": "in"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "id": "6fcf61452cab2122b49c09b88793b448",
+    "title": "Tech Mahindra, AMD Tie Up to Drive Hybrid Multi-Cloud Transformation for Global Enterprises",
+    "description": "The deal aims to let enterprises across key sectors, including manufacturing, finance, telecommunications and healthcare harness the full potential of AI-driven infrastructure.",
+    "content": "How Neysa Stands Out in the IndiaAI GPU Race\nUnlike other providers focused on GPU allocation, Neysa claims to deliver an end-to-end AI cloud platform.\nTwo Indian Engineers on a Mission to Automate Home Cooking for the World\nIn a live demonstration f... [930 chars]",
+    "url": "https://analyticsindiamag.com/ai-news-updates/tech-mahindra-amd-tie-up-to-drive-hybrid-multi-cloud-transformation-for-global-enterprises/",
+    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-24-2025-05_38_45-PM-1300x867.png",
+    "publishedAt": "2025-09-26T05:20:25Z",
+    "lang": "en",
+    "source": {
+      "id": "628299239469ffa8b7dbb809aabbcc2e",
+      "name": "Analytics India Magazine",
+      "url": "https://analyticsindiamag.com",
+      "country": "in"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "title": "BCG says only 5% of companies are deriving value from AI. Here are the industries it says are getting it right.",
+    "description": "BCG says that software, telecommunications, and fintech companies are getting the most out of AI, while others are lagging behind.",
+    "content": "BCG says there's only a small handful of AI winners.J Studios/Getty Images\r\n<ul><li>Only 5% of global firms derive meaningful returns from their AI investments, BCG says.</li><li>Industries like soft\u2026 [+4225 chars]",
+    "url": "https://www.businessinsider.com/industries-seeing-value-from-ai-bcg-consulting-report-2025-10",
+    "image": "https://i.insider.com/68e6cc671c1f80efbec53810?width=1200&format=jpeg",
+    "publishedAt": "2025-10-09T09:15:01Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/industries-seeing-value-from-ai-bcg-consulting-report-2025-10"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "title": "The AI boom isn't a bubble \u2014 it's barely begun, Goldman Sachs says",
+    "description": "The AI gold rush has barely begun and there are trillions on the line, wrote analysts at Goldman Sachs.",
+    "content": "Some investors are on edge over a possible AI-fueled bubble as billions pour into the technology.JOHANNES EISELE/AFP via Getty Images\r\n<ul><li>The AI gold rush has barely begun, and there are trillio\u2026 [+4438 chars]",
+    "url": "https://www.businessinsider.com/ai-bubble-boom-goldman-sachs-crash-risk-forecast-outlook-valuation-2025-10",
+    "image": "https://i.insider.com/68f05e7f1c1f80efbec5aed2?width=1200&format=jpeg",
+    "publishedAt": "2025-10-16T07:26:58Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/ai-bubble-boom-goldman-sachs-crash-risk-forecast-outlook-valuation-2025-10"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "title": "Suspected Salt Typhoon snoops lurking in European telco's network",
+    "description": "It's Typhoon season\u2026year round\nChina's Salt Typhoon gang appears to have successfully attacked a European telecommunications firm, according to security researchers at Darktrace.\u2026",
+    "content": "China's Salt Typhoon gang appears to have successfully attacked a European telecommunications firm, according to security researchers at Darktrace.\r\nSalt Typhoon is an espionage gang linked to the Pe\u2026 [+4475 chars]",
+    "url": "https://www.theregister.com/2025/10/20/salt_typhoon_european_telco/",
+    "image": "https://regmedia.co.uk/2022/07/25/hacker_wearing_mask_at_computer_shutterstock.jpg",
+    "publishedAt": "2025-10-20T22:36:42Z",
+    "source": {
+      "name": "Theregister.com",
+      "url": "https://www.theregister.com/2025/10/20/salt_typhoon_european_telco/"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "title": "NVIDIA Corporation (NVDA) And Taiwan Semiconductor Manufacturing (TSM) Produces the First Blackwell Wafer in US",
+    "description": "\u200bNVIDIA Corporation (NASDAQ:NVDA) is one of the Best Revenue Growth Stocks to Invest In. On October 17, NVIDIA Corporation (NASDAQ:NVDA) announced reaching a...",
+    "content": "NVIDIA Corporation (NASDAQ:NVDA) is one of the Best Revenue Growth Stocks to Invest In. On October 17, NVIDIA Corporation (NASDAQ:NVDA) announced reaching a major milestone with Taiwan Semiconductor \u2026 [+1380 chars]",
+    "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-taiwan-semiconductor-091719296.html",
+    "image": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
+    "publishedAt": "2025-10-22T09:17:19Z",
+    "source": {
+      "name": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-taiwan-semiconductor-091719296.html"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "title": "Hands-free home security is here, thanks to ADT and Google \u2014 but it\u2019ll cost you",
+    "description": "My front door unlocks automatically as I walk up to it, and the home security system disarms itself - no code or app required. The system has recognized me using the Google Nest Doorbell's Familiar Faces, and confirmed I'm me using my phone's location. The du\u2026",
+    "content": "<ul><li></li><li></li><li></li></ul>\r\nADT Plus, developed in partnership with Google, uses facial recognition to allow authorized users to enter the home for $40 a month.\r\nIf you buy something from a\u2026 [+17051 chars]",
+    "url": "https://www.theverge.com/tech/803867/adt-plus-home-security-google-nest-smart-home",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258007_ADT_Plus_JTuohy_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "publishedAt": "2025-10-23T11:47:26Z",
+    "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/803867/adt-plus-home-security-google-nest-smart-home"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "title": "North Korean hackers use AI to forge military IDs",
+    "description": "Generative A.I. has lowered barriers for sophisticated cyberattacks as hackers exploit ChatGPT and other tools to forge documents and identities.",
+    "content": "A North Korean hacking group, known as Kimsuky, used ChatGPT to generate a fake draft of a South Korean military ID. The forged IDs were then attached to phishing emails that impersonated a South Kor\u2026 [+8978 chars]",
+    "url": "https://www.foxnews.com/tech/north-korean-hackers-use-ai-forge-military-ids",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/GettyImages-1234739904.jpg",
+    "publishedAt": "2025-09-27T13:23:52Z",
+    "source": {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/tech/north-korean-hackers-use-ai-forge-military-ids"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "title": "OpenAI Is Just Another Boring, Desperate AI Startup",
+    "description": "What is OpenAI?\n\nI realize you might say \"a foundation model lab\" or \"the company that runs ChatGPT,\" but that doesn't really give the full picture of everything it\u2019s promised, or claimed, or leaked that it was or would be.\n\nNo, really, if you believe its lea\u2026",
+    "content": "What is OpenAI?\r\nI realize you might say \"a foundation model lab\" or \"the company that runs ChatGPT,\" but that doesn't really give the full picture of everything its promised, or claimed, or leaked t\u2026 [+9102 chars]",
+    "url": "https://www.wheresyoured.at/sora2-openai/",
+    "image": "https://www.wheresyoured.at/content/images/2024/01/wyea--1.jpeg",
+    "publishedAt": "2025-10-03T16:37:01Z",
+    "source": {
+      "name": "Wheresyoured.at",
+      "url": "https://www.wheresyoured.at/sora2-openai/"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "title": "Greenland Ditches Starlink for French Satellite Service",
+    "description": "Greenland Strengthens Internet Links Without U.S. Help",
+    "content": "Greenland Strengthens Internet Links Without U.S. Help\r\nIn todays world, internet access is essential for education, health, and safety. \r\nYet, many people in East and North Greenland still struggle \u2026 [+2131 chars]",
+    "url": "https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service",
+    "image": "https://media.mgdk.dk/wp-content/uploads/sites/2/2025/07/Starlink-satellites-space-earth.jpg",
+    "publishedAt": "2025-10-22T07:14:40Z",
+    "source": {
+      "name": "Dagens.com",
+      "url": "https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "title": "Google Fi is getting some neat upgrades that will actually make your life easier",
+    "description": "All the upgrades come with a sweet limited-time promotion.",
+    "content": "While Google Fi Wireless doesnt have the same name recognition as Verizon, AT&amp;T, or T-Mobile, that doesn't mean the tech giant isn't making major moves to change that.\r\nToday, Google announced a \u2026 [+2448 chars]",
+    "url": "https://www.makeuseof.com/google-fi-new-features/",
+    "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/google-fi-wireless-displayed-on-iphone.jpg?w=1600&h=900&fit=crop",
+    "publishedAt": "2025-10-21T20:18:09Z",
+    "source": {
+      "name": "MakeUseOf",
+      "url": "https://www.makeuseof.com/google-fi-new-features/"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "title": "Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?",
+    "description": "Nvidia's $110B vendor financing strategy mirrors Lucent's telecom bubble playbook. Analyzing customer concentration, GPU-backed debt, depreciation schedules & cash flow patterns to assess AI bubble risks.",
+    "content": "When Nvidia announced a $100 billion investment commitment to OpenAI1 in September 2025 , analysts immediately drew comparisons to the telecom bubble. The concern : is this vendor financing , where a\u2026 [+12713 chars]",
+    "url": "https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/",
+    "image": "https://res.cloudinary.com/dzawgnnlr/image/upload/v1/n8ynkgcfy39ny8x4ctue",
+    "publishedAt": "2025-10-04T13:06:32Z",
+    "source": {
+      "name": "Tomtunguz.com",
+      "url": "https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/"
+    },
+    "matched_icp": "Telecom AI Innovator"
+  },
+  {
+    "id": "8afa336241f9d4bf65c3bd0aac02b29b",
+    "title": "generated brand marketing film celebrating human connections this Diwali",
+    "description": "Jio Financial Services releases new AI-generated brand marketing film celebrating human connections this Diwali - New Delhi [India], October 23 : Jio Financial Services Limited (JFSL), which caters to the core financial needs of ... Get Latest News on Business only on lokmattimes.com",
+    "content": "New Delhi [India], October 23 : Jio Financial Services Limited (JFSL), which caters to the core financial needs of Indians through its simple, seamless and smart financial services offered through the JioFinance app, launched an innovative brand mark... [2114 chars]",
+    "url": "https://www.lokmattimes.com/business/jio-financial-services-releases-new-ai-generated-brand-marketing-film-celebrating-human-connections-this-diwali/",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20251023063407_202510.jpg",
+    "publishedAt": "2025-10-23T06:38:37Z",
+    "lang": "en",
+    "source": {
+      "id": "f2ddccedc9e60d844e7a1045928cad48",
+      "name": "Lokmat Times",
+      "url": "https://www.lokmattimes.com",
+      "country": "in"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "id": "4564b9f024526b73f98060ace1d9341c",
+    "title": "Stop using AI to trade until you answer this one question about insurance",
+    "description": "Everyone wants to build wealth, but very few stop to secure it. Insurance is not about predicting the future as it is about preparing for the parts you cannot see coming. The smartest thing you can do is protect before you pursue.",
+    "content": "On Reddit and Twitter, AI-powered investing is having a moment. Threads about prompt-driven trading bots, machine-generated F&O strategies, and GPT plug-ins for portfolio management are everywhere.\nOne viral post showed how someone used an LLM to bac... [10648 chars]",
+    "url": "https://www.financialexpress.com/money/insights/stop-using-ai-to-trade-until-you-answer-this-one-question-about-insurance/4014960/",
+    "image": "https://images.financialexpressdigital.com/2025/10/Untitled-design140.jpg",
+    "publishedAt": "2025-10-19T00:00:00Z",
+    "lang": "en",
+    "source": {
+      "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+      "name": "The Financial Express",
+      "url": "https://www.financialexpress.com",
+      "country": "in"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "id": "36f101fd53d6f3f62f3936b73ea9791f",
+    "title": "Why your SME belongs at the ET AI Awards 2025",
+    "description": "The ET AI Awards 2025 is redefining the future of business innovation by celebrating small and medium enterprises (SMEs) that are using artificial intelligence to create measurable impact. From financial services to agriculture, these awards recognise the trailblazers turning AI into a competitive edge.",
+    "content": "Synopsis\nThe ET AI Awards 2025 is redefining the future of business innovation by celebrating small and medium enterprises (SMEs) that are using artificial intelligence to create measurable impact. From financial services to agriculture, these awards... [4389 chars]",
+    "url": "https://economictimes.indiatimes.com/ai/ai-insights/why-your-sme-belongs-at-the-et-ai-awards-2025/articleshow/124622210.cms",
+    "image": "https://img.etimg.com/thumb/msid-124622210,width-1200,height-630,imgsize-411664,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2025-10-17T07:07:00Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "id": "b40c37c515259f82c6e919c29cdd83e8",
+    "title": "How AI Could Transform Health Insurance in India",
+    "description": "Early risk detection with AI helps employees stay healthy and manage healthcare expenses",
+    "content": "Early risk detection with AI helps employees stay healthy and manage healthcare expenses\nTally Solutions Bets on AI to Simplify Business for SMEs\nTally Solutions is redefining SMEs\u2019 tech experience, proving that true innovation lies in simplicity, no... [782 chars]",
+    "url": "https://analyticsindiamag.com/ai-features/how-ai-could-transform-health-insurance-in-india/",
+    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/10/Merin_What-AI-Does-in-Preventive-Healthcare-and-How-It-Could-Save-You-Money.jpg",
+    "publishedAt": "2025-10-17T06:07:34Z",
+    "lang": "en",
+    "source": {
+      "id": "628299239469ffa8b7dbb809aabbcc2e",
+      "name": "Analytics India Magazine",
+      "url": "https://analyticsindiamag.com",
+      "country": "in"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "id": "147c58b31ca0845661216becba02414a",
+    "title": "Insurance stocks set for better topline after GST changes: Nischal Maheshwari",
+    "description": "As earnings season progresses, Nischal Maheshwari highlights positive trends in life insurance and asset management, favoring SBI Life and HDFC AMC. He advises caution on Axis Bank and Vodafone Idea, sees green shoots in IT despite AI concerns, and backs government-supported manufacturing and defense sectors. Consumption faces headwinds, but e-commerce shows promise, while real estate benefits from liquidity.",
+    "content": "Synopsis\nAs earnings season progresses, Nischal Maheshwari highlights positive trends in life insurance and asset management, favoring SBI Life and HDFC AMC. He advises caution on Axis Bank and Vodafone Idea, sees green shoots in IT despite AI concer... [6811 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/insurance-stocks-set-for-better-topline-after-gst-changes-nischal-maheshwari/articleshow/124598862.cms",
+    "image": "https://img.etimg.com/thumb/msid-124598876,width-1200,height-630,imgsize-21254,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2025-10-16T07:40:00Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "id": "23bc75297e8861b5f84dd33236455632",
+    "title": "ANALYSIS-Investors on guard for risks that could derail the AI gravy train",
+    "description": "The benchmark index is up about 13% year-to-date, while the tech-heavy Nasdaq Composite has climbed 17%. \"So much of what is holding up the markets is either directly or indirectly related to that trade,\" said Yung-Yu Ma, chief investment strategist at PNC Financial Services Group.",
+    "content": "Optimism over the profit potential of artificial intelligence has helped drive the U.S. stock market to record highs, but investors are looking for weak spots that could emerge in the AI trade and have identified some risks to watch for.\nAI has been ... [4694 chars]",
+    "url": "https://www.devdiscourse.com/article/headlines/3664469-analysis-investors-on-guard-for-risks-that-could-derail-the-ai-gravy-train",
+    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_00_09_3968771.jpg?width=920&format=jpeg",
+    "publishedAt": "2025-10-15T10:11:30Z",
     "lang": "en",
     "source": {
       "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
@@ -14,6 +331,1044 @@
       "url": "https://www.devdiscourse.com",
       "country": "in"
     },
-    "matched_icp": "Telecom Innovator"
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "id": "4542529ed4040c65f8eb0d19a487d565",
+    "title": "NuSummit Integrates Origamis AI to Transform Financial Services AI Solutions",
+    "description": "NuSummit, a digital transformation and cybersecurity provider, integrates Origamis AI into its portfolio, enhancing AI solutions for financial services. This move aids regulated institutions in safely scaling AI capabilities across compliance, risk management, and customer experience. The integration emphasizes scalable, responsible AI solutions in the financial domain.",
+    "content": "NuSummit, a reputed provider of digital transformation and cybersecurity solutions in global financial markets, has announced the integration of Origamis AI into its Data & AI offerings. This integration is expected to bolster NuSummit's capabilities... [935 chars]",
+    "url": "https://www.devdiscourse.com/article/technology/3664275-nusummit-integrates-origamis-ai-to-transform-financial-services-ai-solutions",
+    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/06_08_2025_07_24_56_049711.png?width=920&format=jpeg",
+    "publishedAt": "2025-10-15T07:05:19Z",
+    "lang": "en",
+    "source": {
+      "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+      "name": "Devdiscourse",
+      "url": "https://www.devdiscourse.com",
+      "country": "in"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "id": "7a86061ed9640b906a56ec1180596e5e",
+    "title": "NuSummit Strengthens its Data and AI Capabilities with Origamis AI Platform Integration",
+    "description": "Mumbai (Maharashtra) [India], October 15: NuSummit, a provider of digital transformation and cybersecurity solutions to global capital markets and financial services, today announced the integration of Origamis AI into its Data & AI portfolio. Origamis AI will operate as NuSummit's AI platform brand.",
+    "content": "PRNewswire\nMumbai (Maharashtra) [India], October 15: NuSummit, a provider of digital transformation and cybersecurity solutions to global capital markets and financial services, today announced the integration of Origamis AI into its Data & AI portfo... [4687 chars]",
+    "url": "https://www.tribuneindia.com/news/business/nusummit-strengthens-its-data-and-ai-capabilities-with-origamis-ai-platform-integration/",
+    "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThkNDUxYWYwLWE5OGItMTFmMC04NjMyLTFiZGZhNzM3NzM5Zi5qcGc=",
+    "publishedAt": "2025-10-15T05:55:23Z",
+    "lang": "en",
+    "source": {
+      "id": "c5725557f39c24c8b029ee39900a8406",
+      "name": "The Tribune",
+      "url": "https://www.tribuneindia.com",
+      "country": "in"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "id": "8c2037e96371423465aa57f94f7d95f5",
+    "title": "AXA is Trying to Revolutionise Insurance With One Agent at a Time",
+    "description": "\u201cAI is not about replacing jobs. It\u2019s about elevating them.\u201d",
+    "content": "Insurance has long carried a reputation for being slow, bureaucratic and paper-heavy. However, a quiet shift is underway. Intelligent AI agents are starting to transform the industry, promising faster claims, proactive support and personalised polici... [4466 chars]",
+    "url": "https://analyticsindiamag.com/ai-highlights/axa-is-trying-to-revolutionise-insurance-with-one-agent-at-a-time/",
+    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/10/axa-banner.jpg",
+    "publishedAt": "2025-10-14T07:31:58Z",
+    "lang": "en",
+    "source": {
+      "id": "628299239469ffa8b7dbb809aabbcc2e",
+      "name": "Analytics India Magazine",
+      "url": "https://analyticsindiamag.com",
+      "country": "in"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "id": "02307930a4d52d9438361d386c2f8ee2",
+    "title": "Colab Platforms Ventures into AI's Billion-Dollar Future",
+    "description": "Colab Platforms announces the launch of Colab Intelligence, a new subsidiary to expand its presence in the AI sector. The company aims to target high-growth industries such as gaming, esports, financial services, and retail. The AI industry is projected to grow from USD 200 billion in 2024 to USD 1.8 trillion by 2030.",
+    "content": "Diversified technology firm Colab Platforms has announced the establishment of a wholly-owned subsidiary called Colab Intelligence. This strategic move aims to bolster the company's stake in the burgeoning USD 200 billion Artificial Intelligence indu... [812 chars]",
+    "url": "https://www.devdiscourse.com/article/technology/3661713-colab-platforms-ventures-into-ais-billion-dollar-future",
+    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/21_04_2025_10_57_56_2660185.png?width=920&format=jpeg",
+    "publishedAt": "2025-10-13T11:06:47Z",
+    "lang": "en",
+    "source": {
+      "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+      "name": "Devdiscourse",
+      "url": "https://www.devdiscourse.com",
+      "country": "in"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "title": "Transforming Risk Management in Financial Services with Generative AI - SPONSOR CONTENT FROM PROVECTUS AND AWS",
+    "description": "Sponsor content from Provectus and AWS.",
+    "content": "Skip to content\r\nSponsor content from Provectus and AWS.\r\n\"&gt;\r\nSponsor content from Provectus and AWS.\r\n\"&gt;\r\nBy Helen Johnson\r\nIn financial services, risk exposures are shifting faster than ever.\u2026 [+8218 chars]",
+    "url": "https://hbr.org/sponsored/2025/10/transforming-risk-management-in-financial-services-with-generative-ai",
+    "image": "https://hbr.org/resources/images/article_assets/2025/08/Provectus-Harvard-Business-Review.png",
+    "publishedAt": "2025-10-07T18:05:24Z",
+    "source": {
+      "name": "Harvard Business Review",
+      "url": "https://hbr.org/sponsored/2025/10/transforming-risk-management-in-financial-services-with-generative-ai"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "title": "The Unexpected Way AI Is Helping Appeal Health Insurance Denials",
+    "description": "A North Carolina startup is using AI to fight AI.",
+    "content": "For Neal Shah, the breaking point came during his wife's cancer treatment.\u00a0 \r\nHe remembers being overwhelmed, surrounded by stacks of hospital bills, denial notices and insurance statements. When he \u2026 [+9682 chars]",
+    "url": "https://www.cnet.com/tech/services-and-software/the-unexpected-way-ai-is-helping-appeal-health-insurance-denials/",
+    "image": "https://www.cnet.com/a/img/resize/53e2ec392a34ee12ef036a1309a773edf358e560/hub/2025/10/07/3d27ee02-df9d-4283-bb5e-308c80febe2c/gettyimages-2191629602.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2025-10-10T09:45:02Z",
+    "source": {
+      "name": "CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/the-unexpected-way-ai-is-helping-appeal-health-insurance-denials/"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "title": "Palmer Luckey\u2019s AI and Crypto-Focused Bank Wins Conditional Approval",
+    "description": "The bank is called Erebor, another tech venture from the Tolkien universe.",
+    "content": "Erebor, a new tech-focused bank to serve crypto and AI customers, has received conditional approval from the Office of the Comptroller of the Currency (OCC) to begin operations, according to a press \u2026 [+2940 chars]",
+    "url": "https://gizmodo.com/palmer-luckeys-ai-and-crypto-focused-bank-wins-conditional-approval-2000672899",
+    "image": "https://gizmodo.com/app/uploads/2024/09/Palmer-Luckey-during-an-interview-with-Emily-Chang.jpg",
+    "publishedAt": "2025-10-16T12:30:02Z",
+    "source": {
+      "name": "Gizmodo.com",
+      "url": "https://gizmodo.com/palmer-luckeys-ai-and-crypto-focused-bank-wins-conditional-approval-2000672899"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "title": "TrumpRx Is a Narcissistic, AI-Generated Nightmare",
+    "description": "AI art really has become the aesthetic of grifters and fascists.",
+    "content": "Donald Trump, the convicted felon and current President of the United States, officially launched a new government website dubbed TrumpRx during a press conference at the White House on Friday. It\u2019s \u2026 [+7451 chars]",
+    "url": "https://gizmodo.com/trumprx-is-a-narcissistic-ai-generated-nightmare-2000671309",
+    "image": "https://gizmodo.com/app/uploads/2025/10/trumprx-website-e1760140421440-1200x675.jpg",
+    "publishedAt": "2025-10-11T00:04:56Z",
+    "source": {
+      "name": "Gizmodo.com",
+      "url": "https://gizmodo.com/trumprx-is-a-narcissistic-ai-generated-nightmare-2000671309"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "title": "Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy",
+    "description": "Anthropic's latest AI model spent 30 hours running by itself to code a chat app akin to Slack or Teams. It spat out about 11,000 lines of code, according to Anthropic, and it only stopped running when it had completed the task. The model, Claude Sonnet 4.5, w\u2026",
+    "content": "<ul><li></li><li></li></ul>\r\nIt can run autonomously for 30 hours straight, per Anthropic.\r\nIt can run autonomously for 30 hours straight, per Anthropic.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts f\u2026 [+4299 chars]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "publishedAt": "2025-09-29T17:04:09Z",
+    "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "title": "Zocdoc CEO: \u2018Dr. Google is going to be replaced by Dr. AI\u2019",
+    "description": "Today\u2019s Decoder episode is a special one: I\u2019m talking to Zocdoc CEO Oliver Kharraz, and we chatted live onstage at the TechFutures conference here in New York City.\u00a0 You\u2019re almost certainly familiar with Zocdoc \u2014 it\u2019s a platform that helps people find and boo\u2026",
+    "content": "<ul><li></li><li></li><li></li></ul>\r\nOliver Kharraz on competition, healthcare, and where AI really belongs in medicine.\r\nby\r\nNilay PatelClose\r\nNilay Patel\r\nPosts from this author will be added to y\u2026 [+60466 chars]",
+    "url": "https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD-Oliver-Kharraz.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+    "publishedAt": "2025-10-20T13:59:34Z",
+    "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "title": "These nonprofits lobbied to regulate OpenAI \u2014 then the subpoenas came",
+    "description": "On August 19th at 7:07PM, Tyler Johnston received a message from his roommate. A man, the text said, was knocking on their door with legal documents to serve. Johnston is the founder and sole employee of The Midas Project: a nonprofit that monitors the practi\u2026",
+    "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAIs legal battle with Elon Musk has caught company critics in the crossfire.\r\nOpenAIs legal battle with Elon Musk has caught company critics in the crossfire\u2026 [+12960 chars]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258009_OpenAI_intimidation_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "publishedAt": "2025-10-20T13:52:14Z",
+    "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "title": "Tech billionaires seem to be doom prepping. Should we all be worried?",
+    "description": "The debate is ramping up about what happens if - or when - computer intelligence overtakes humans",
+    "content": "Mark Zuckerberg is said to have started work on Koolau Ranch, his sprawling 1,400-acre compound on the Hawaiian island of Kauai, as far back as 2014. \r\nIt is set to include a shelter, complete with i\u2026 [+11540 chars]",
+    "url": "https://www.bbc.com/news/articles/cly17834524o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2abb/live/00b3aff0-9f88-11f0-928c-71dbb8619e94.jpg",
+    "publishedAt": "2025-10-09T23:02:51Z",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly17834524o"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "title": "These are the most 'AI-proof' software companies, according to analysts",
+    "description": "Investors worry that generative AI will disrupt software business models. These companies could fend off the threat.",
+    "content": "Clearwater Analytics CEO Sandeep Sahai rings the opening bell at the New York Stock Exchange.REUTERS/Andrew Kelly\r\n<ul><li>Vertical software firms are seen as resilient amid AI disruption, according \u2026 [+4587 chars]",
+    "url": "https://www.businessinsider.com/software-saas-ai-proof-companies-2025-10",
+    "image": "https://i.insider.com/68dd976e1c1f80efbec4be73?width=1200&format=jpeg",
+    "publishedAt": "2025-10-02T09:00:01Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/software-saas-ai-proof-companies-2025-10"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "title": "Tech CEOs marvel \u2014 and worry \u2014 about Sam Altman's dizzying race to dominate AI",
+    "description": "Tech CEOs say the OpenAI leader's torrent of activity stands out even by startup standards, with some calling it bold and others reckless.",
+    "content": "OpenAI cofounder and CEO Sam Altman has had an exceptionally busy past few weeks.Florian Gaertner/Photothek via Getty Images\r\n<ul><li>Altman's OpenAI recently made a flurry of announcements, includin\u2026 [+5298 chars]",
+    "url": "https://www.businessinsider.com/tech-ceos-weigh-in-openai-chief-sam-altman-leadership-2025-10",
+    "image": "https://i.insider.com/68e931a3cc993f9955cff9bc?width=1200&format=jpeg",
+    "publishedAt": "2025-10-11T09:45:02Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/tech-ceos-weigh-in-openai-chief-sam-altman-leadership-2025-10"
+    },
+    "matched_icp": "Digital-First Financial Services"
+  },
+  {
+    "id": "bd0b0f47bf97286d7ea9cd5d052319fd",
+    "title": "Amazon testing new warehouse robots and AI tools for workers",
+    "description": "Amazon.com is building an e-commerce fulfillment business where humans are more efficient and less necessary, thanks to artificial intelligence and robots.",
+    "content": "The retail giant unveiled a trio of new technologies Wednesday that it is testing or preparing to deploy in its warehouses and delivery vans. They include a robot arm called Blue Jay, designed to sort packages; an artificial-intelligence agent called... [3121 chars]",
+    "url": "https://www.livemint.com/companies/amazon-testing-new-warehouse-robots-and-ai-tools-for-workers-11761212007562.html",
+    "image": "https://www.livemint.com/lm-img/img/2025/10/23/1600x900/im-12602384_1761212011669_1761212063000.jpg",
+    "publishedAt": "2025-10-23T09:35:22Z",
+    "lang": "en",
+    "source": {
+      "id": "3bd4bd306c42647825fa42989624c036",
+      "name": "Livemint",
+      "url": "https://www.livemint.com",
+      "country": "in"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "id": "5e68c3526e6b9aba4bb6a34b1637fe48",
+    "title": "AI-powered forecasting boosts retail efficiency: LSTM outshines traditional models",
+    "description": "Demand forecasting remains one of the most complex challenges in retail management. As consumer behavior evolves rapidly, traditional statistical models have struggled to interpret nonlinear, dynamic patterns in sales data. The authors note that artificial intelligence, particularly machine learning and deep learning, has emerged as a transformative force capable of recognizing patterns and learning from historical datasets.",
+    "content": "In a new comparative analysis of artificial intelligence applications in retail, researchers have revealed that advanced deep learning models can dramatically enhance the accuracy of demand forecasting. Their study concludes that Long Short-Term Memo... [7222 chars]",
+    "url": "https://www.devdiscourse.com/article/technology/3665104-ai-powered-forecasting-boosts-retail-efficiency-lstm-outshines-traditional-models",
+    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_10_2025_17_31_50_8059835.png?width=920&format=jpeg",
+    "publishedAt": "2025-10-23T03:56:29Z",
+    "lang": "en",
+    "source": {
+      "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+      "name": "Devdiscourse",
+      "url": "https://www.devdiscourse.com",
+      "country": "in"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "id": "77f479fbdec4f0ed34aee69b6e22f08d",
+    "title": "Everyone Else Talks AI in India, These Women are Building It",
+    "description": "From breast cancer screening to retail automation, women founders are building some of India\u2019s most transformative AI ventures.",
+    "content": "From breast cancer screening to retail automation, women founders are building some of India\u2019s most transformative AI ventures.\nIs Agentic Coding Just a Smart Intern Pretending to Know More?\nDevelopers point out that guiding an AI agent to perform te... [812 chars]",
+    "url": "https://analyticsindiamag.com/ai-features/everyone-else-talks-ai-in-india-these-women-are-building-it/",
+    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/03/Mohit-5-1-e1748953143883.jpg",
+    "publishedAt": "2025-10-22T04:19:24Z",
+    "lang": "en",
+    "source": {
+      "id": "628299239469ffa8b7dbb809aabbcc2e",
+      "name": "Analytics India Magazine",
+      "url": "https://analyticsindiamag.com",
+      "country": "in"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "id": "3526f98d338ed31411f4c0d3317dfc4c",
+    "title": "Top 8 Women-Led AI Startups in India as of October 2025",
+    "description": "From breast cancer screening to retail automation, women founders are building some of India\u2019s most transformative AI ventures.",
+    "content": "A transformative surge of women-led AI startups is marking a significant shift in India\u2019s traditionally male-dominated tech landscape. As of October 2025, over 7,000 women-led startups operate across the country, accounting for approximately 7.5% of ... [5776 chars]",
+    "url": "https://analyticsindiamag.com/ai-trends/top-8-women-led-ai-startups-in-india-as-of-october-2025/",
+    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/03/Mohit-5-1-e1748953143883.jpg",
+    "publishedAt": "2025-10-22T04:19:24Z",
+    "lang": "en",
+    "source": {
+      "id": "628299239469ffa8b7dbb809aabbcc2e",
+      "name": "Analytics India Magazine",
+      "url": "https://analyticsindiamag.com",
+      "country": "in"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "id": "b2390da629adc00894799edf48679c72",
+    "title": "Boost Ads Achieves Google Partner Status: Leading The Digital Advertising Frontier",
+    "description": "Boost Ads, established by Google Ads expert Anaam Tiwary, is now recognized as an official Google Partner in India. The agency excels in high-converting Google Ads campaigns, offering data-driven strategies and AI-powered optimization. Boost Ads is trusted for measurable results, transparency, and prioritized client satisfaction, serving industries like real estate and e-commerce.",
+    "content": "New Delhi, India \u2013 Boost Ads, one of India's top Google Ads agencies founded by Anaam Tiwary, has been awarded the status of an Official Google Partner. This achievement underscores the agency's commitment to excellence in delivering high-conversion ... [935 chars]",
+    "url": "https://www.devdiscourse.com/article/technology/3669197-boost-ads-achieves-google-partner-status-leading-the-digital-advertising-frontier",
+    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_02_16_4468374.jpg?width=920&format=jpeg",
+    "publishedAt": "2025-10-21T09:13:59Z",
+    "lang": "en",
+    "source": {
+      "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+      "name": "Devdiscourse",
+      "url": "https://www.devdiscourse.com",
+      "country": "in"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "id": "e57dc9830e19bc1cdffabc42990fc818",
+    "title": "Brokerages bet on retail, new energy to drive RIL\u2019s growth",
+    "description": "Analysts predict RIL to prioritize retail and fuel refining for growth, with focus on new energy and AI for future growth. Despite Q2FY26 earnings missing estimates, RIL\u2019s performance is expected to boost investor confidence and prompt a re-rating. The company\u2019s solar and giga factories are on track, and its retail business saw significant growth in [\u2026] | financialexpress.com",
+    "content": "Market 6 min ago\nThis is an AI assisted summary.\nAnalysts predict RIL to prioritize retail and fuel refining for growth, with focus on new energy and AI for future growth. Despite Q2FY26 earnings missing estimates, RIL's performance is expected to bo... [21062 chars]",
+    "url": "https://www.financialexpress.com/shorts/business/industry/brokerages-bet-on-retail-new-energy-to-drive-rils-growth-4016503/",
+    "image": "https://images.financialexpressdigital.com/2025/09/RIL.reuterss_20250502095933_20250507152043_20250603090926_20250612112914_20250701180854_20250901044016.jpg",
+    "publishedAt": "2025-10-20T10:42:35Z",
+    "lang": "en",
+    "source": {
+      "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+      "name": "The Financial Express",
+      "url": "https://www.financialexpress.com",
+      "country": "in"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "id": "e140208919f67d56443f2c4788a91c07",
+    "title": "BFSI, retail and manufacturing to drive Salesforce growth in India: Arundhati Bhattacharya",
+    "description": "She retired from SBI in 2017 and went on to reinvent herself with a brand new career innings at the helm of cloud-based service provider Salesforce India in 2020 as Chairperson and CEO.Since then, under her leadership, Salesforce India operation has seen multi-fold jump both in terms of revenue and headcount.Speaking about AI adoption by Indian banks, Bhattacharya said every single company in its board conversations earlier used to talk digitization but now is talking adoption of Artificial Intelligence AI.Where they will make the most use of it in order to get the best returns is probably the concern.",
+    "content": "BFSI, retail and manufacturing to drive the US-based IT firm Salesforce's growth in India over the next three years, a top executive of the company said.\n''The three-year agenda remains more or less the same. We still see a lot of growth coming out o... [3725 chars]",
+    "url": "https://www.devdiscourse.com/article/technology/3667544-bfsi-retail-and-manufacturing-to-drive-salesforce-growth-in-india-arundhati-bhattacharya",
+    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png?width=920&format=jpeg",
+    "publishedAt": "2025-10-19T07:51:26Z",
+    "lang": "en",
+    "source": {
+      "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+      "name": "Devdiscourse",
+      "url": "https://www.devdiscourse.com",
+      "country": "in"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "id": "29c367b8dc73bef035ba51b1cc380aa1",
+    "title": "India\u2019s Most Powerful AI Data Centres by Capacity",
+    "description": "As India accelerates towards becoming a $1-trillion digital economy, its data centre ecosystem is emerging as the backbone of this transformation. The surge in AI workloads, hyperscale cloud deployments and the country\u2019s rapid digitisation across sectors from banking and retail to media and manufacturing has led to an unprecedented demand for secure, high-performance data infrastructure.",
+    "content": "As India accelerates towards becoming a $1-trillion digital economy, its data centre ecosystem is emerging as the backbone of this transformation. The surge in AI workloads, hyperscale cloud deployments and the country\u2019s rapid digitisation across sec... [6870 chars]",
+    "url": "https://analyticsindiamag.com/ai-trends/indias-most-powerful-ai-data-centres-by-capacity/",
+    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/10/Siddharth_Biggest-AI-Data-Centres-of-India-by-Capacity.jpg",
+    "publishedAt": "2025-10-19T03:38:01Z",
+    "lang": "en",
+    "source": {
+      "id": "628299239469ffa8b7dbb809aabbcc2e",
+      "name": "Analytics India Magazine",
+      "url": "https://analyticsindiamag.com",
+      "country": "in"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "id": "afe92d5a670c515f4c4287ce232825eb",
+    "title": "Women to get 10% discount at Supplyco stores from Nov 1",
+    "description": "To improve the availability of quality rice, boiled rice will be included among the subsidised varieties.Supplyco Kerala, Kerala food discount, Supplyco outlets women discount, Kerala subsidized food, Maveli stores upgrade, Supplyco golden jubilee, Mobile supermarkets Kerala, Kerala ration card benefits, Supplyco privilege card, GR Anil Supplyco, Kerala government schemes, Best deals on groceries in Kerala, New Kerala food initiatives, AI driven grocery retail trends, LLM applications in retail sector",
+    "content": "Kerala Food and Civil Supplies Minister G R Anil on Saturday announced that women will be offered a discount of up to 10 per cent on non-subsidised products at Supplyco outlets starting November 1.\nHe said the new discount will be in addition to the ... [1728 chars]",
+    "url": "https://www.onmanorama.com/news/kerala/2025/10/18/supplyco-kerala-women-discount.html",
+    "image": "https://img.onmanorama.com/content/dam/mm/en/kerala/top-news/images/2024/12/23/supply-co.jpg",
+    "publishedAt": "2025-10-18T15:49:39Z",
+    "lang": "en",
+    "source": {
+      "id": "60c457b35b486691319f105c3a760060",
+      "name": "Malayala Manorama",
+      "url": "https://www.onmanorama.com",
+      "country": "in"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "id": "e9dea1f00b28a29c44ad7e72c0975ed9",
+    "title": "Streamoid Launches CXO, an AI Command Center for Brands",
+    "description": "CXO fixes quality at the source and carries it through design, studio and catalog execution.Battle-tested in fashion and lifestyle, this platform is built for any product sold online, from apparel and accessories to home, beauty and beyond and is expanding to support commerce, planning and content activation across retail sectors.CXO combines three core modules that reflect common brand workflows.Artifax Design Intelligence turns trend and sales signals into concept boards and factory-ready tech packs, compressing design cycles from ideation to specs.",
+    "content": "Bengaluru, 17th October 2025: Streamoid launched CXO, an AI-powered command center that unifies product data, design and catalog workflows to move brands faster from concept to commerce.\nBuilt after years of deploying data science solutions for globa... [3055 chars]",
+    "url": "https://www.devdiscourse.com/article/technology/3665536-streamoid-launches-cxo-an-ai-command-center-for-brands",
+    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_56_2660097.png?width=920&format=jpeg",
+    "publishedAt": "2025-10-17T08:27:35Z",
+    "lang": "en",
+    "source": {
+      "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+      "name": "Devdiscourse",
+      "url": "https://www.devdiscourse.com",
+      "country": "in"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "title": "OpenAI's new deal with Walmart shows how AI is going to shake up the shopping experience",
+    "description": "E-commerce is facing a major shakeup as major retailers like Walmart partner with ChatGPT to enable direct shopping through the chatbot.",
+    "content": "Walmart partners with OpenAI to enable consumers to shop directly within ChatGPT.Mike Blake/REUTERS\r\n<ul><li>Walmart is partnering with OpenAI to enable direct agent shopping within ChatGPT.</li><li>\u2026 [+4317 chars]",
+    "url": "https://www.businessinsider.com/walmarts-new-chatgpt-deal-shows-agent-shopping-here-to-stay-2025-10",
+    "image": "https://i.insider.com/68eeaed01c1f80efbec59655?width=1200&format=jpeg",
+    "publishedAt": "2025-10-14T22:33:07Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/walmarts-new-chatgpt-deal-shows-agent-shopping-here-to-stay-2025-10"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "title": "OpenAI enters a special new phase of extreme influence",
+    "description": "OpenAI products and ideas are spooking investors and redefining industries like SaaS, e-commerce, and digital advertising.",
+    "content": "Sam Altman, CEO OpenAI, photographed in BerlinIMAGO/BMF via Reuters Connect\r\n<ul><li>A version of this story originally appeared in the BI Tech Memo newsletter.</li><li>Sign up for the weekly BI Tech\u2026 [+3060 chars]",
+    "url": "https://www.businessinsider.com/openai-extreme-influence-sam-altman-sora-saas-ecommerce-2025-10",
+    "image": "https://i.insider.com/68dec0905dbc4fd10daa0fc6?width=1200&format=jpeg",
+    "publishedAt": "2025-10-03T15:00:01Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/openai-extreme-influence-sam-altman-sora-saas-ecommerce-2025-10"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "title": "China turned livestreaming into a 24-hour sleepless hydra of a selling machine. Now the US is catching up.",
+    "description": "The US is waking up to livestreaming, a cornerstone of Chinese e-commerce, and retailers like eBay and Whatnot are cashing in on the trend.",
+    "content": "Getty Images; Alyssa Powell/BI\r\n<ul><li>24/7 livestreaming has been a cornerstone of Chinese e-commerce for years.</li><li>Livestreaming involves selling products and touting big discounts in real ti\u2026 [+8274 chars]",
+    "url": "https://www.businessinsider.com/china-livestreaming-sleepless-selling-machine-us-catching-up-2025-10",
+    "image": "https://i.insider.com/68ee46135dbc4fd10daacae6?width=1200&format=jpeg",
+    "publishedAt": "2025-10-17T00:08:01Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/china-livestreaming-sleepless-selling-machine-us-catching-up-2025-10"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "title": "Amazon claims the headline isn\u2019t robots taking jobs as it reveals new cost-cutting robots",
+    "description": "A New York Times report on Tuesday cited internal Amazon documents touting how its shift into automation could help it sell more products without hiring more people, but today the company has issued a PR blast about robotics and delivery tech that is much sun\u2026",
+    "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Blue Jay robots extra set of hands probably means Amazons warehouses will require fewer human hands.\r\nThe Blue Jay robots extra set of hands probably means A\u2026 [+4068 chars]",
+    "url": "https://www.theverge.com/news/805098/amazon-robots-ai-warehouses",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/download-4.jpg?quality=90&strip=all&crop=0%2C3.4926328102429%2C100%2C93.014734379514&w=1200",
+    "publishedAt": "2025-10-23T00:51:34Z",
+    "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/news/805098/amazon-robots-ai-warehouses"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "title": "Amazon Will Pay Up $2.5 Billion in Settlement Over Allegedly Tricking People Into Prime Subscriptions",
+    "description": "Amazon will pay a $1 billion civil penalty\u2014the largest ever in an FTC rule-violation case\u2014and provide $1.5 billion in refunds to customers.",
+    "content": "Despite Jeff Bezoss attempts to stay on Trumps good side, Amazon has agreed to pay up $2.5 billion to settle a U.S. Federal Trade Commission (FTC) lawsuit over its allegedly questionable Prime subscr\u2026 [+3010 chars]",
+    "url": "https://gizmodo.com/amazon-will-pay-up-2-5-billion-in-settlement-over-allegedly-tricking-people-into-prime-subscriptions-2000663768",
+    "image": "https://gizmodo.com/app/uploads/2019/10/kfdws8ljfgkzbkaoyxks.jpg",
+    "publishedAt": "2025-09-25T17:50:54Z",
+    "source": {
+      "name": "Gizmodo.com",
+      "url": "https://gizmodo.com/amazon-will-pay-up-2-5-billion-in-settlement-over-allegedly-tricking-people-into-prime-subscriptions-2000663768"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "title": "Amazon Plans to Replace 600,000 Human Workers With Robots, Report Says",
+    "description": "The retail giant has used robots in its warehouses for years, but it appears that the company is ramping up in a big way.",
+    "content": "Amazon has been using robots in its warehouses for over a decade, and that's not stopping anytime soon. According to a report Monday\u00a0from The New York Times, Amazon is seeking to ramp up its robot ar\u2026 [+2795 chars]",
+    "url": "https://www.cnet.com/tech/amazon-plans-to-replace-600000-human-workers-with-robots-report-says/",
+    "image": "https://www.cnet.com/a/img/resize/eef8a5af0284b8ac02dcee731e24a673af3080e6/hub/2025/10/21/f49158c0-ff4c-421f-bf19-bfa802296baf/amazon-robot.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2025-10-22T00:01:43Z",
+    "source": {
+      "name": "CNET",
+      "url": "https://www.cnet.com/tech/amazon-plans-to-replace-600000-human-workers-with-robots-report-says/"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "title": "Robots May Replace 600,000 Human Employees at Amazon",
+    "description": "The retail giant plans to expand its non-human workforce, with the goal of automating 75% of its operations, according to The New York Times.",
+    "content": "Robots have been a staple at Amazon warehouses for more than a decade, performing tasks formerly completed by humans, including picking, sorting and moving packages. Now, Amazon plans to make human l\u2026 [+3430 chars]",
+    "url": "https://www.cnet.com/tech/robots-may-replace-600000-human-employees-at-amazon/",
+    "image": "https://www.cnet.com/a/img/resize/eef8a5af0284b8ac02dcee731e24a673af3080e6/hub/2025/10/21/f49158c0-ff4c-421f-bf19-bfa802296baf/amazon-robot.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2025-10-23T09:00:04Z",
+    "source": {
+      "name": "CNET",
+      "url": "https://www.cnet.com/tech/robots-may-replace-600000-human-employees-at-amazon/"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "title": "Leaked Amazon Plans Say Robots Will Help It Avoid Hiring 600,000 Workers",
+    "description": "The e-commerce giant\u2019s automation team reportedly plans to automate 75% of company operations.",
+    "content": "The nations second-largest employer is reportedly hoping robots will take your jobor, what could have potentially been your job, at least.\u00a0\r\nAfter years of hiring thousands of warehouse employees and\u2026 [+3411 chars]",
+    "url": "https://gizmodo.com/leaked-amazon-plans-say-robots-will-help-it-avoid-hiring-600000-workers-2000674920",
+    "image": "https://gizmodo.com/app/uploads/2025/06/agilityrobotamazon-1200x675.jpg",
+    "publishedAt": "2025-10-21T16:00:06Z",
+    "source": {
+      "name": "Gizmodo.com",
+      "url": "https://gizmodo.com/leaked-amazon-plans-say-robots-will-help-it-avoid-hiring-600000-workers-2000674920"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "title": "Cathie Wood says Elon Musk's $1 trillion pay deal will pass 'decisively' \u2014 despite opposition from proxy firms",
+    "description": "Cathie Wood says retail investors will decide Elon Musk's $1 trillion Tesla pay deal, set for a shareholder vote on November 6.",
+    "content": "Cathie Wood says she believes Elon Musk's $1 trillion Tesla pay plan will sail through its shareholder vote.ALLISON ROBBERT/AFP via Getty Image; Joe Raedle/Getty Images\r\n<ul><li>Cathie Wood says Elon\u2026 [+3013 chars]",
+    "url": "https://www.businessinsider.com/cathie-wood-elon-musk-1t-tesla-pay-deal-vote-win-2025-10",
+    "image": "https://i.insider.com/68f607475dbc4fd10dab2090?width=1200&format=jpeg",
+    "publishedAt": "2025-10-20T10:23:24Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/cathie-wood-elon-musk-1t-tesla-pay-deal-vote-win-2025-10"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "title": "DirecTV Customers Will Soon See Their Own Faces in AI-Generated TV Ads",
+    "description": "Ready for your closeup? If you use a DirecTV Gemini device, your face might appear on your television screensaver next year.",
+    "content": "DirecTV has partnered with\u00a0Glance, an artificial intelligence\u00a0company, to allow people using its Gemini\u00a0streaming devices to see AI-generated screensavers featuring their own faces.\r\nGlance, owned by\u2026 [+2008 chars]",
+    "url": "https://www.cnet.com/tech/services-and-software/directv-customers-will-soon-see-their-own-faces-in-ai-generated-tv-ads/",
+    "image": "https://www.cnet.com/a/img/resize/5c09db921f5ca52640fe248f57acb2d32b38c042/hub/2025/10/15/f2bb52e1-ce15-426a-bc99-44c1aa3944f2/screenshot-2025-10-15-at-3-49-07pm.png?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2025-10-15T23:45:33Z",
+    "source": {
+      "name": "CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/directv-customers-will-soon-see-their-own-faces-in-ai-generated-tv-ads/"
+    },
+    "matched_icp": "E-commerce Personalization Leader"
+  },
+  {
+    "id": "95eda21880f388e5c38d0961c37eb5d5",
+    "title": "Indian workforce needs to be future-ready: Dassault Syst\u00e8ms' Elisa Prisner",
+    "description": "Dassault Syst\u00e8ms is leveraging virtual simulation and 3D twin technology to revolutionize industries beyond entertainment. The company is partnering with major manufacturers and startups, focusing on sectors like manufacturing, life sciences, and infrastructure. Their solutions integrate AI and virtual representations to enhance product lifecycles and prepare a future-ready workforce, with a significant focus on India's innovation potential.",
+    "content": "Synopsis\nDassault Syst\u00e8ms is leveraging virtual simulation and 3D twin technology to revolutionize industries beyond entertainment. The company is partnering with major manufacturers and startups, focusing on sectors like manufacturing, life sciences... [7059 chars]",
+    "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indian-workforce-needs-to-be-future-ready-dassault-systms-elisa-prisner/articleshow/124753223.cms",
+    "image": "https://img.etimg.com/thumb/msid-124753711,width-1200,height-630,imgsize-27208,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2025-10-23T06:19:00Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "id": "6c1c5f3202a5f7f71ec99a65199cf0aa",
+    "title": "L&T Technology Services Recertification at Caterpillar's Supplier Excellence Recognition Event for Second Consecutive Year",
+    "description": "Bengaluru (Karnataka) [India], October 23: L&T Technology Services (BSE: 540115, NSE: LTTS), a global leader in AI, Digital & ER&D Consulting Services, has once again been certified during Caterpillar's 2025 Supplier Excellence Recognition (SER) event, following its certification in 2024. This milestone underscores LTTS' reliability, operational excellence, and long-term commitment to supporting Caterpillar's global supply chain.",
+    "content": "BusinessWire India\nBengaluru (Karnataka) [India], October 23: L&T Technology Services (BSE: 540115, NSE: LTTS), a global leader in AI, Digital & ER&D Consulting Services, has once again been certified during Caterpillar's 2025 Supplier Excellence Rec... [1733 chars]",
+    "url": "https://www.tribuneindia.com/news/business/lt-technology-services-recertification-at-caterpillars-supplier-excellence-recognition-event-for-second-consecutive-year/",
+    "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY5OGE0N2QwLWFmY2EtMTFmMC1iMDY0LWVkNWUyYTYzNDljNy5qcGc=",
+    "publishedAt": "2025-10-23T04:40:28Z",
+    "lang": "en",
+    "source": {
+      "id": "c5725557f39c24c8b029ee39900a8406",
+      "name": "The Tribune",
+      "url": "https://www.tribuneindia.com",
+      "country": "in"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "id": "d049e9f59da45b0dd8930ba86e6a1f6f",
+    "title": "Madhav Envisages AP As Southeast Asia\u2019s future AI Hub",
+    "description": "The city had started as a small fishing harbour, has grown into a major shipping port, and will now become a world-class hub of AI technology and computer chip manufacturing.",
+    "content": "VISAKHAPATNAM: Andhra Pradesh BJP state president P.V.N. Madhav has hailed Google's landmark investment in Visakhapatnam as a \"game changer,\" saying it will transform the coastal city into India's artificial intelligence hub and position Andhra Prade... [2497 chars]",
+    "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/madhav-envisages-ap-as-southeast-asias-future-ai-hub-1911671",
+    "image": "https://www.deccanchronicle.com/h-upload/2025/10/21/1969879-download-2025-10-22t022952904.jpg",
+    "publishedAt": "2025-10-21T21:01:24Z",
+    "lang": "en",
+    "source": {
+      "id": "214d496d625fc657723cf4da80cff8ce",
+      "name": "Deccan Chronicle",
+      "url": "https://www.deccanchronicle.com",
+      "country": "in"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "id": "9b857e9cd462aa2b9ea1ad07fd319096",
+    "title": "Australia's Critical Role in the Global Mineral Race",
+    "description": "Critical minerals are essential for manufacturing technologies such as AI, EVs, and renewables, igniting global competition. Australia's vast reserves present both opportunities and challenges. Policies aim to shift from mining to refining these minerals. However, environmental concerns and geopolitical tensions with China add complexity to the situation.",
+    "content": "The race for critical minerals is intensifying globally, with Australia's reserves of lithium, cobalt, and other essential elements positioning it as a key player on the world stage.\nPrime Minister Anthony Albanese's visit to the White House undersco... [410 chars]",
+    "url": "https://www.devdiscourse.com/article/business/3669039-australias-critical-role-in-the-global-mineral-race",
+    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/06_10_2025_09_17_14_5421776.png?width=920&format=jpeg",
+    "publishedAt": "2025-10-21T06:56:33Z",
+    "lang": "en",
+    "source": {
+      "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+      "name": "Devdiscourse",
+      "url": "https://www.devdiscourse.com",
+      "country": "in"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "id": "1d06b0f6a201d8a8f8960adbae4f8c42",
+    "title": "NVIDIA, TSMC Produce First Blackwell Wafer in the US, Boosting Domestic AI Chip Manufacturing",
+    "description": "The Blackwell wafer is the base material for semiconductors and will undergo layering, patterning, etching, and dicing before becoming NVIDIA\u2019s AI chip.",
+    "content": "NVIDIA and TSMC have produced the first NVIDIA Blackwell wafer on US soil, marking the start of volume production of the AI chip in America. The milestone highlights efforts to onshore semiconductor manufacturing and strengthen the US supply chain.\nN... [1640 chars]",
+    "url": "https://analyticsindiamag.com/ai-news-updates/nvidia-tsmc-produce-first-blackwell-wafer-in-the-us-boosting-domestic-ai-chip-manufacturing/",
+    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/10/tsmc-flag-1280x680-3-scaled.jpg",
+    "publishedAt": "2025-10-18T16:51:10Z",
+    "lang": "en",
+    "source": {
+      "id": "628299239469ffa8b7dbb809aabbcc2e",
+      "name": "Analytics India Magazine",
+      "url": "https://analyticsindiamag.com",
+      "country": "in"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "id": "51e92e32476cefa1a7450a6816f09c19",
+    "title": "Nvidia unveils first Blackwell chip wafer made with TSMC in U.S.",
+    "description": "Nvidia unveiled on Friday the first U.S.-made Blackwell wafer, produced at TSMC\u2019s semiconductor manufacturing facility in Phoenix, as demand for AI chips accelerates.",
+    "content": "Nvidia unveiled on Friday the first U.S.-made Blackwell wafer, produced at TSMC's semiconductor manufacturing facility in Phoenix, as demand for AI chips accelerates.\nCompanies have been racing to meet the broader AI industry's voracious appetite for... [985 chars]",
+    "url": "https://www.thehindu.com/sci-tech/technology/nvidia-unveils-first-blackwell-chip-wafer-made-with-tsmc-in-us/article70178056.ece",
+    "image": "https://th-i.thgim.com/public/incoming/stla0d/article70178058.ece/alternates/LANDSCAPE_1200/2025-10-17T222823Z_140264540_RC2LEGAC8B0Y_RTRMADP_3_NVIDIA-TSMC.JPG",
+    "publishedAt": "2025-10-18T04:00:37Z",
+    "lang": "en",
+    "source": {
+      "id": "b33a42ef1c098421f66aad47a76d6a3c",
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com",
+      "country": "in"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "id": "5155e31632d479b9c4153ae7381b33c6",
+    "title": "Nvidia unveils first Blackwell chip wafer made with TSMC in US",
+    "description": "Companies have been racing to meet the broader AI industry's voracious appetite for computing power as they develop AI technology that meets or exceeds human intelligence. The move \"bolsters the US supply chain and onshores the AI technology stack that will turn data into intelligence and secure America's leadership for the AI era,\" Nvidia said in a blog post.",
+    "content": "Synopsis\nCompanies have been racing to meet the broader AI industry's voracious appetite for computing power as they develop AI technology that meets or exceeds human intelligence. The move \"bolsters the US supply chain and onshores the AI technology... [1445 chars]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-unveils-first-blackwell-chip-wafer-made-with-tsmc-in-us/articleshow/124652470.cms",
+    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-537576,resizemode-75,msid-124652470/tech/technology/nvidia-unveils-first-blackwell-chip-wafer-made-with-tsmc-in-us.jpg",
+    "publishedAt": "2025-10-18T02:17:55Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "id": "61aa205cf95854628ec5a2247255eb3e",
+    "title": "Remember when avocado toast was a flex? Now it\u2019s Rs 86 at your corner store",
+    "description": "The very fruit that once lived in posh cafs now rubs shoulders with bananas and jackfruits in roadside stalls..avocado Kerala, Vennappazham, exotic fruits India, Kerala agriculture, avocado cultivation, Ambalavayal Avocado City, superfoods India, fruit farming Kerala, growing avocados in Kerala, affordable avocado recipes, benefits of avocado, local avocado price, sustainable agriculture LLM, supply chain optimization AI, AI-driven agricultural forecasting",
+    "content": "Picture this: in some boutique caf\u00e9 in Kochi, a perfectly sliced avocado on sourdough; smashed, seasoned, glowing under soft light. Tagline: \u201cAvocado toast: because you deserve green gold.\u201d That was the era: avocado = expensive, fashionable, Instagra... [4944 chars]",
+    "url": "https://www.onmanorama.com/food/features/2025/10/17/avocado-street-level-transformation.html",
+    "image": "https://img.onmanorama.com/content/dam/mm/en/archive/food/features/images/2025/10/17/avocado-market.jpg",
+    "publishedAt": "2025-10-17T11:50:36Z",
+    "lang": "en",
+    "source": {
+      "id": "60c457b35b486691319f105c3a760060",
+      "name": "Malayala Manorama",
+      "url": "https://www.onmanorama.com",
+      "country": "in"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "title": "China's new rare earth export controls will impact global chip supply chain, analysts say",
+    "description": "China's latest export controls on rare earths are expected to have a direct impact on the global semiconductor supply chain, complicating the production of...",
+    "content": "China's latest export controls on rare earths are expected to have a direct impact on the global semiconductor supply chain, complicating the production of AI and memory chips from major US and South\u2026 [+4534 chars]",
+    "url": "https://finance.yahoo.com/news/chinas-rare-earth-export-controls-093000716.html",
+    "image": "https://s.yimg.com/ny/api/res/1.2/QBVBnnqs7J7Vx.CyeBLX9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTA-/https://media.zenfs.com/en/south_china_morning_post_us_228/55b89c7af5ba3430237b633c84c35dac",
+    "publishedAt": "2025-10-10T09:30:00Z",
+    "source": {
+      "name": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/chinas-rare-earth-export-controls-093000716.html"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "title": "Suppliers Already Preparing for iPhone 18's Camera",
+    "description": "The iPhone 18 is already driving major shifts deep in the semiconductor supply chain, as Samsung Electronics expands production of image sensors, prompting one of its key testing partners to invest over $120 million in new equipment, The Elec reports.\n\n\n\n\n\nDo\u2026",
+    "content": "The iPhone 18 is already driving major shifts deep in the semiconductor supply chain, as Samsung Electronics expands production of image sensors, prompting one of its key testing partners to invest o\u2026 [+1978 chars]",
+    "url": "https://www.macrumors.com/2025/10/15/suppliers-already-preparing-for-iphone-18-camera/",
+    "image": "https://images.macrumors.com/t/Rr9N7wh9Js2g-0t3NsUr1rQAvEg=/1600x/article-new/2025/09/iphone-17-rear-camera.jpg",
+    "publishedAt": "2025-10-15T15:48:47Z",
+    "source": {
+      "name": "MacRumors",
+      "url": "https://www.macrumors.com/2025/10/15/suppliers-already-preparing-for-iphone-18-camera/"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "title": "Apple\u2019s rumored smart home display hub might start at $350",
+    "description": "Apple\u2019s long-rumored smart home display hub may finally launch in Spring 2026, according to Bloomberg\u2019s Mark Gurman, but at a relatively steep cost. Gurman reports that Apple has targeted a price of around $350 for its upcoming 7-inch smart display meant to s\u2026",
+    "content": "<ul><li></li><li></li><li></li></ul>\r\nThe same price as Apples OG HomePod at launch.\r\nThe same price as Apples OG HomePod at launch.\r\nby\r\nJess WeatherbedClose\r\nJess Weatherbed\r\nPosts from this author\u2026 [+2124 chars]",
+    "url": "https://www.theverge.com/news/799792/apple-smart-home-display-hub-price-rumors",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/amazon-echo-show-alexa-plus-smart-home.webp?quality=90&strip=all&crop=0%2C10.782006784713%2C100%2C78.435986430574&w=1200",
+    "publishedAt": "2025-10-15T12:53:13Z",
+    "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/news/799792/apple-smart-home-display-hub-price-rumors"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "title": "Microsoft Joins Big Tech Giants Looking to Exit China Operations",
+    "description": "Trump is getting what he wanted.",
+    "content": "Trump wanted big tech to leave China. By most appearances, he is getting what he wants.\r\nMicrosoft is reportedly the latest company to start decoupling some of its business in China. The big tech gia\u2026 [+3144 chars]",
+    "url": "https://gizmodo.com/microsoft-joins-big-tech-giants-looking-to-exit-china-operations-2000673066",
+    "image": "https://gizmodo.com/app/uploads/2025/10/shutterstock_2367470345-1200x675.jpg",
+    "publishedAt": "2025-10-16T17:05:50Z",
+    "source": {
+      "name": "Gizmodo.com",
+      "url": "https://gizmodo.com/microsoft-joins-big-tech-giants-looking-to-exit-china-operations-2000673066"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "title": "OpenAI Gobbles Up a Stake in AMD as Its Spending Spree Shows No Sign of Stopping",
+    "description": "Sam Altman needs compute and will do whatever it takes to get it.",
+    "content": "OpenAI just inked another multibillion-dollar deal.\r\nThe AI giant is buying 6 gigawatts and billions of dollars worth of Nvidia-rival chipmaker AMD\u2019s latest generation chips to power its next-generat\u2026 [+2994 chars]",
+    "url": "https://gizmodo.com/openai-gobbles-up-a-stake-in-amd-as-its-spending-spree-shows-no-sign-of-stopping-2000668016",
+    "image": "https://gizmodo.com/app/uploads/2025/10/shutterstock_2673979929-1200x675.jpg",
+    "publishedAt": "2025-10-06T13:55:36Z",
+    "source": {
+      "name": "Gizmodo.com",
+      "url": "https://gizmodo.com/openai-gobbles-up-a-stake-in-amd-as-its-spending-spree-shows-no-sign-of-stopping-2000668016"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "title": "5 big takeaways from Tesla's Q3 earnings call \u2014 including fiery words from Musk over $1 trillion pay package",
+    "description": "During the Q3 earnings call, the EV maker discussed CEO Elon Musk's $1 trillion pay package, set a timeline for Tesla Robotaxi, and teased Optimus V3.",
+    "content": "Tesla reported a mixed bag of results in its Q3 earnings.\r\nProfits and adjusted earnings per share both missed Wall Street expectations. Tesla's third-quarter revenue,however, reached an all-time hig\u2026 [+5086 chars]",
+    "url": "https://www.businessinsider.com/5-big-takeaways-from-teslas-q3-earnings-call-2025-10",
+    "image": "https://i.insider.com/68f98bd0c007ca8c27377797?width=1200&format=jpeg",
+    "publishedAt": "2025-10-23T02:36:09Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/5-big-takeaways-from-teslas-q3-earnings-call-2025-10"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "title": "'Circular' AI Mega-Deals by AI and Hardware Giants are Raising Eyebrows",
+    "description": "\"Nvidia is investing billions in and selling chips to OpenAI, which is also buying chips from and earning stock in AMD,\" writes SFGate. \"AMD sells processors to Oracle, which is building data centers with OpenAI \u2014 which also gets data center work from CoreWea\u2026",
+    "content": "\"Nvidia is investing billions in and selling chips to OpenAI, which is also buying chips from and earning stock in AMD,\" writes SFGate. \"AMD sells processors to Oracle, which is building data centers\u2026 [+1630 chars]",
+    "url": "https://slashdot.org/story/25/10/11/1819237/circular-ai-mega-deals-by-ai-and-hardware-giants-are-raising-eyebrows",
+    "image": "https://a.fsdn.com/sd/topics/ai_64.png",
+    "publishedAt": "2025-10-11T18:34:00Z",
+    "source": {
+      "name": "Slashdot.org",
+      "url": "https://slashdot.org/story/25/10/11/1819237/circular-ai-mega-deals-by-ai-and-hardware-giants-are-raising-eyebrows"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "title": "Why Lattice Semiconductor (LSCC) Stock Is Trading Up Today",
+    "description": "Shares of semiconductor designer Lattice Semiconductor (NASDAQ:LSCC) jumped 3.3% in the morning session after a major AI-focused partnership in the chip...",
+    "content": "Shares of semiconductor designer Lattice Semiconductor (NASDAQ:LSCC) jumped 3.3% in the morning session after a major AI-focused partnership in the chip sector boosted sentiment for stocks with expos\u2026 [+2598 chars]",
+    "url": "https://finance.yahoo.com/news/why-lattice-semiconductor-lscc-stock-155601633.html",
+    "image": "https://s.yimg.com/ny/api/res/1.2/NtbtLgH1vt7C.fV3pF66ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/942bf2f3d384506ec6367c009315c815",
+    "publishedAt": "2025-10-06T15:56:01Z",
+    "source": {
+      "name": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/why-lattice-semiconductor-lscc-stock-155601633.html"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "title": "The true extent of cyber attacks on UK business - and the weak spots that allow them to happen",
+    "description": "Are this year's major attacks the \"cumulative effect of a kind of inaction on cyber security\" from the government and big business?",
+    "content": "The first day of September should have marked the beginning of one of the busiest periods of the year for Jaguar Land Rover. \r\nIt was a Monday, and the release of new 75 series number plates was expe\u2026 [+12415 chars]",
+    "url": "https://www.bbc.com/news/articles/c5ye8zj5l4jo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bd0d/live/eacf7ae0-a110-11f0-b741-177e3e2c2fc7.jpg",
+    "publishedAt": "2025-10-06T00:52:33Z",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5ye8zj5l4jo"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "title": "GM says hands-free, eyes-off driving is coming to Escalade IQ in 2028",
+    "description": "General Motors may be shrinking its electric vehicle production, but the automaker wants investors to know its still committed to future technologies like automated driving, software-defined vehicles, and AI voice assistants. Today, GM CEO Mary Barra announce\u2026",
+    "content": "<ul><li></li><li></li><li></li></ul>\r\nAs its EV business contracts, GM is doubling down on AI, software, and robotics.\r\nAs its EV business contracts, GM is doubling down on AI, software, and robotics\u2026 [+9235 chars]",
+    "url": "https://www.theverge.com/news/802452/gm-forward-ai-robot-level-3-autonomous",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-97616875.jpg?quality=90&strip=all&crop=0%2C11.59705065349%2C100%2C76.80589869302&w=1200",
+    "publishedAt": "2025-10-21T20:15:32Z",
+    "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/news/802452/gm-forward-ai-robot-level-3-autonomous"
+    },
+    "matched_icp": "Manufacturing AI Optimizer"
+  },
+  {
+    "id": "60f8ef76b9273fc30653dae2cdb074b4",
+    "title": "Board of Practical Training (ER) celebrates 50 years, focus on AI and healthcare",
+    "description": "The event honoured outstanding contributors to the National Apprenticeship Training Scheme (NATS).",
+    "content": "Dr SM Ejaz Ahmad, director of BOPT (ER), outlined the board\u2019s mission to make graduates and diploma holders industry-ready and highlighted new efforts to meet demands of emerging sectors. \u201cFor over five decades, BOPT (ER) has worked to empower gradua... [1213 chars]",
+    "url": "https://indianexpress.com/article/cities/kolkata/board-of-practical-training-er-celebrates-50-years-focus-on-ai-and-healthcare-10323486/",
+    "image": "https://images.indianexpress.com/2025/10/IE-79_1f1087.jpeg",
+    "publishedAt": "2025-10-23T22:43:33Z",
+    "lang": "en",
+    "source": {
+      "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+      "name": "The Indian Express",
+      "url": "https://indianexpress.com",
+      "country": "in"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "id": "dcc5fd878cc616f52d9b10c126f4bce8",
+    "title": "Andhra IT Minister Fosters Global Collaborations in Australia",
+    "description": "Nara Lokesh, Andhra Pradesh's IT Minister, concluded a significant Australian tour, advocating partnerships in technology, tourism, healthcare, and education. He engaged with universities, promoted Andhra's investment prospects, and explored collaborations in AI, cybersecurity, and renewable energy. Lokesh invited Australian entities for joint initiatives in digital health and youth skill development.",
+    "content": "Andhra Pradesh IT Minister Nara Lokesh wrapped up the fifth day of his Australian tour, focusing on creating partnerships in sectors like technology, tourism, healthcare, and education. His itinerary included strategic meetings with notable instituti... [782 chars]",
+    "url": "https://www.devdiscourse.com/article/business/3672216-andhra-it-minister-fosters-global-collaborations-in-australia",
+    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/01_07_2025_18_18_40_1028592.jpg?width=920&format=jpeg",
+    "publishedAt": "2025-10-23T16:17:47Z",
+    "lang": "en",
+    "source": {
+      "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+      "name": "Devdiscourse",
+      "url": "https://www.devdiscourse.com",
+      "country": "in"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "id": "450442cf8cb62eb233ffc9fd92a8f520",
+    "title": "India's AI Prowess: Driving Productivity and Innovation Globally",
+    "description": "India's strategic advantage lies in its capacity to deploy artificial intelligence solutions worldwide, enhancing productivity and innovation across sectors. Electronics and IT Secretary, S Krishnan, emphasized AI's crucial role in realizing India's 'Viksit Bharat' vision by 2047. AI can significantly improve agriculture, healthcare, and service quality.",
+    "content": "India's technological capability, particularly in artificial intelligence (AI), presents a unique opportunity for global influence in productivity and innovation, according to Electronics and Information Technology Secretary S Krishnan.\nSpeaking at t... [573 chars]",
+    "url": "https://www.devdiscourse.com/article/technology/3672008-indias-ai-prowess-driving-productivity-and-innovation-globally",
+    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/02_06_2025_08_55_02_6986837.png?width=920&format=jpeg",
+    "publishedAt": "2025-10-23T13:30:09Z",
+    "lang": "en",
+    "source": {
+      "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+      "name": "Devdiscourse",
+      "url": "https://www.devdiscourse.com",
+      "country": "in"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "id": "275020e8fbe889e081eacf7546c170a8",
+    "title": "ThinkBio.Ai acquires UK based InfoHealth Solutions",
+    "description": "ThinkBio.Ai acquires InfoHealth Solutions to enhance UK healthcare with advanced AI-powered solutions and maintain its brand identity.",
+    "content": "ThinkBio.Ai, an AI-powered platforms and solutions company in Kochi, has announced the acquisition of InfoHealth Solutions, one of the UK\u2019s premiere hospital asset management software providers.\nThe acquisition position ThinkBio.Ai to bring a wide po... [1402 chars]",
+    "url": "https://www.thehindubusinessline.com/info-tech/thinkbioai-acquires-uk-based-infohealth-solutions/article70193483.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/wxicj3/article70193472.ece/alternates/LANDSCAPE_1200/IMG-20251023-WA0029.jpg",
+    "publishedAt": "2025-10-23T11:25:03Z",
+    "lang": "en",
+    "source": {
+      "id": "680f00482cbf9f314921fefd917871d9",
+      "name": "The Hindu Business Line",
+      "url": "https://www.thehindubusinessline.com",
+      "country": "in"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "id": "b62a6b3fb49e89442e4dbaa93d04aed4",
+    "title": "The New Face Of Healthcare: Can AI Help India's Overburdened Doctors And Patients Alike?",
+    "description": "AI-aided health hubs, around the world and now in India too, are powering patient-focused healthcare and reducing delays in seeking treatment. This is a transformational change that can mean enhanced patient outcomes and ease for the doctors too.",
+    "content": "The long queues in the waiting rooms of medical professionals, limited time with the doctor, along with the administrative hassle at a typical medical care facility. These are the realities of the healthcare system that patients deal with whenever th... [8179 chars]",
+    "url": "https://www.ndtv.com/health/the-new-face-of-healthcare-can-ai-help-indias-overburdened-doctors-and-patients-alike-9496579",
+    "image": "https://c.ndtvimg.com/2025-10/a42kqq0o_how-startups-are-turning-local-clinics-into-aiaided-health-hubs_625x300_22_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "publishedAt": "2025-10-23T06:12:54Z",
+    "lang": "en",
+    "source": {
+      "id": "7daf04fa6272ed0a29583b211dcfe1d4",
+      "name": "NDTV.com",
+      "url": "https://www.ndtv.com",
+      "country": "in"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "id": "df6dbfe919010d9d58b4dd28ab9efc26",
+    "title": "Superhealth signs Rs 2,500 cr pact with United Imaging for radiology systems",
+    "description": "NEW DELHI, Oct 22: \u00a0Hospital network Superhealth on Wednesday said it has inked a multi-year agreement worth over Rs 2,500 crore with global imaging innovator United Imaging Healthcare for advanced radiology systems. \u00a0 Under the pact, United Imaging will supply, install, and undertake lifecycle management of a full suite of advanced radiology systems across 100 upcoming Superhealth hospitals, the company said in a statement. The advanced radiology systems include AI-ready MRI, 160-slice CT, full-body cardiac CT, digital mammography, digital X-ray [\u2026]",
+    "content": "By\nDaily Excelsior\n-\nNEW DELHI, Oct 22: Hospital network Superhealth on Wednesday said it has inked a multi-year agreement worth over Rs 2,500 crore with global imaging innovator United Imaging Healthcare for advanced radiology systems.\nUnder the pac... [1423 chars]",
+    "url": "https://www.dailyexcelsior.com/superhealth-signs-rs-2500-cr-pact-with-united-imaging-for-radiology-systems/",
+    "image": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/10/Health-2.jpg",
+    "publishedAt": "2025-10-22T07:36:53Z",
+    "lang": "en",
+    "source": {
+      "id": "28bc60a23a7bf89e60f893506992a3fe",
+      "name": "Daily Excelsior",
+      "url": "https://www.dailyexcelsior.com",
+      "country": "in"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "id": "3645e6b92b6450365dc02e34133addbb",
+    "title": "A New Blueprint for Multimodal AI: Beyond Vision and Language",
+    "description": "Researchers at the University of Sheffield and Alan Turing Institute have developed a new framework for multimodal AI, enabling it to leverage data beyond vision and language. This practical guide aims to enhance AI's real-world application by integrating varied data types, offering potential advancements in sectors like healthcare and autonomous vehicles.",
+    "content": "Researchers from the University of Sheffield and the Alan Turing Institute have unveiled a groundbreaking framework designed to expand the capabilities of artificial intelligence (AI). This new blueprint outlines how AI systems can learn from diverse... [723 chars]",
+    "url": "https://www.devdiscourse.com/article/technology/3669741-a-new-blueprint-for-multimodal-ai-beyond-vision-and-language",
+    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2025_11_07_14_6711409.png?width=920&format=jpeg",
+    "publishedAt": "2025-10-21T15:39:21Z",
+    "lang": "en",
+    "source": {
+      "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+      "name": "Devdiscourse",
+      "url": "https://www.devdiscourse.com",
+      "country": "in"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "id": "d0405e8715ec6b8bb5fed22e57ace76a",
+    "title": "Alphabet pushes into healthtech with AI",
+    "description": "Alphabet's life sciences unit, Verily, has announced the launch of an artificial intelligence (AI) powered health app called Verily Me. The Trump administration has encouraged tech companies to expand the suite of healthcare tools available to citizens. Alphabet, Apple and Amazon are among the tech majors that have pledged to invest and support US health systems, making medical data more visible and organised.",
+    "content": "Synopsis\nAlphabet's life sciences unit, Verily, has announced the launch of an artificial intelligence (AI) powered health app called Verily Me. The Trump administration has encouraged tech companies to expand the suite of healthcare tools available ... [3110 chars]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/alphabet-pushes-into-healthtech-with-ai-powered-app-verily-me/articleshow/124702507.cms",
+    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-13014,resizemode-75,msid-124702507/tech/technology/alphabet-pushes-into-healthtech-with-ai-powered-app-verily-me.jpg",
+    "publishedAt": "2025-10-20T09:05:15Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "id": "c415be85db8ec874b780570c4a775214",
+    "title": "Qure.ai reimagining healthcare via faster, cheaper diagnostics",
+    "description": "Healthtech startup Qure.ai plans to partner with 10,000 hospitals over the next few years to expand use of its AI-based imaging tools. With a strong global presence and backing from top investors, it aims to tackle critical diseases using AI. Founder Prashant Warier says growth will focus on scale, innovation, and key markets.",
+    "content": "Synopsis\nHealthtech startup Qure.ai plans to partner with 10,000 hospitals over the next few years to expand use of its AI-based imaging tools. With a strong global presence and backing from top investors, it aims to tackle critical diseases using AI... [3775 chars]",
+    "url": "https://economictimes.indiatimes.com/tech/technology/qure-ai-reimagining-healthcare-via-faster-cheaper-diagnostics/articleshow/124693764.cms",
+    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-27978,resizemode-75,msid-124693764/tech/technology/qure-ai-reimagining-healthcare-via-faster-cheaper-diagnostics.jpg",
+    "publishedAt": "2025-10-20T00:30:00Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "id": "44a581aa74c15140bdaa7d7d47127623",
+    "title": "IndiaAI, WHO Announce Global Call For Abstracts On Scalable AI Solutions In Healthcare",
+    "description": "It is aimed at replicating and scaling successfully implemented AI solutions across the Global South, the Casebook will serve as a comprehensive repository of impactful AI-driven initiatives.",
+    "content": "New Delhi: The IndiaAI Mission, under the Ministry of Electronics and Information Technology (MeitY), in collaboration with the World Health Organization (WHO), has announced a global call for abstracts highlighting impactful and scalable application... [2137 chars]",
+    "url": "https://zeenews.india.com/technology/indiaai-who-announce-global-call-for-abstracts-on-scalable-ai-solutions-in-healthcare-2973781.html",
+    "image": "https://english.cdn.zeenews.com/sites/default/files/2025/10/19/1848705-ai-healthcare.jpg",
+    "publishedAt": "2025-10-19T04:33:56Z",
+    "lang": "en",
+    "source": {
+      "id": "e743cde6ee986921721e83d3957862dc",
+      "name": "Zee News",
+      "url": "https://zeenews.india.com",
+      "country": "in"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "title": "AI startup Zingage says healthcare belongs inside the home. Read the pitch deck that it used to raise $12 million.",
+    "description": "Two-year-old Zingage is building an AI scheduling and operations product for home healthcare agencies.",
+    "content": "Zingage cofounders Daniel Tian and Victor Hunt.Mara Friedman\r\n<ul><li>Zingage is developing an AI-powered scheduling product for home healthcare agencies.</li><li>The mission hits close to home for i\u2026 [+2995 chars]",
+    "url": "https://www.businessinsider.com/ai-startup-zingage-raises-12-million-healthcare-into-homes-2025-10",
+    "image": "https://i.insider.com/68e02f201c1f80efbec4ecd7?width=1200&format=jpeg",
+    "publishedAt": "2025-10-07T14:00:01Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/ai-startup-zingage-raises-12-million-healthcare-into-homes-2025-10"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "title": "Box's CEO predicts jobs will grow in these 3 sectors due to AI",
+    "description": "Box CEO Aaron Levie predicts AI will efficiency gains will boost demand for human workers in sales, healthcare, and legal sectors.",
+    "content": "Aaron Levie said he uses a variety of AI tools.Box\r\n<ul><li>Box CEO Aaron Levie predicts AI will increase demand for certain sectors.</li><li>He said as AI tools enhance efficiency, they will boost d\u2026 [+2910 chars]",
+    "url": "https://www.businessinsider.com/aaron-levie-shares-3-sectors-jobs-grow-with-ai-2025-9",
+    "image": "https://i.insider.com/68db3dd35dbc4fd10da9d00f?width=1200&format=jpeg",
+    "publishedAt": "2025-10-01T14:52:36Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/aaron-levie-shares-3-sectors-jobs-grow-with-ai-2025-9"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "title": "This is your doctor on ChatGPT",
+    "description": "Over a dozen healthcare professionals told Business Insider how they use AI \u2014 including one way it could help cure their burnout.",
+    "content": "St. Luke's internal medicine physician Carl Dirks said that ambient listening was a solution for \"clinician burnout.\"Chase Castor for BI\r\nAdam Rodman uses ChatGPT when he's stumped.The internal medic\u2026 [+10465 chars]",
+    "url": "https://www.businessinsider.com/how-doctors-use-ai-chatgpt-including-to-help-avoid-burnout-2025-10",
+    "image": "https://i.insider.com/68e024ee1c1f80efbec4eadd?width=1200&format=jpeg",
+    "publishedAt": "2025-10-04T09:36:01Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/how-doctors-use-ai-chatgpt-including-to-help-avoid-burnout-2025-10"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "title": "Here's the pitch deck that Point72-backed Heidi Health used to raise $65 million to battle in the AI scribe race",
+    "description": "Heidi Health is gaining traction for ambient clinical documentation against hot startup competitors like Abridge and Ambience Healthcare.",
+    "content": "Dr. Thomas Kelly, cofounder and CEO of Heidi Health.Heidi Health\r\n<ul><li>Heidi Health just nabbed a $65 million Series B for its free AI medical scribe.</li><li>It's competing with ambient tech from\u2026 [+4878 chars]",
+    "url": "https://www.businessinsider.com/exclusive-pitch-deck-ai-scribe-heidi-health-raise-65-million-2025-10",
+    "image": "https://i.insider.com/68e5281acc993f9955cfad97?width=1200&format=jpeg",
+    "publishedAt": "2025-10-08T09:00:01Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/exclusive-pitch-deck-ai-scribe-heidi-health-raise-65-million-2025-10"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "title": "Digital health's 'come to Jesus moment': Merge or die",
+    "description": "More healthcare startups are considering mergers as they struggle to raise capital or get bought, dealmakers said at the HLTH conference in Las Vegas.",
+    "content": "General Atlantic's Robb Vorhoff, Baird's Sasha Kelemen, and JPMorgan's Nick Richitt said more healthcare startups are being forced to compromise as they consider mergers or markdowns in acquisitions.\u2026 [+6626 chars]",
+    "url": "https://www.businessinsider.com/digital-health-come-to-jesus-moment-merge-or-die-2025-10",
+    "image": "https://i.insider.com/68f801b71c1f80efbec60593?width=1200&format=jpeg",
+    "publishedAt": "2025-10-23T09:00:01Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/digital-health-come-to-jesus-moment-merge-or-die-2025-10"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "title": "Reid Hoffman says Silicon Valley's got a blind spot that savvy AI investors could be cashing in on",
+    "description": "Reid Hoffman says the next great AI companies will rise from Silicon Valley's blind spot \u2014 not from software and code.",
+    "content": "Reid Hoffman said that startups need to have lower H-1B fees.Dominik Bindl/Getty Images\r\n<ul><li>Reid Hoffman says Silicon Valley's software obsession has created a blind spot.</li><li>The LinkedIn c\u2026 [+2890 chars]",
+    "url": "https://www.businessinsider.com/reid-hoffman-silicon-valley-blind-spot-ai-software-biology-2025-10",
+    "image": "https://i.insider.com/68f7030dcc993f9955d08cc2?width=1200&format=jpeg",
+    "publishedAt": "2025-10-21T04:28:50Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/reid-hoffman-silicon-valley-blind-spot-ai-software-biology-2025-10"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "title": "Jensen Huang name-checks 6 AI companies \u2014 and says 100% of Nvidia engineers use one of them",
+    "description": "Six AI startups are part of Jensen Huang's future vision for human-agentic AI workforces.",
+    "content": "Nvidia is partnering with beleaguered Intel to the tune of $5 billion.Kent Nishimura/REUTERS\r\n<ul><li>Jensen Huang highlighted six AI startups that he said will be part of the human-digital workforce\u2026 [+2553 chars]",
+    "url": "https://www.businessinsider.com/jensen-huang-hot-ai-startups-nvidia-vibe-coding-cursor-openai-2025-10",
+    "image": "https://i.insider.com/68ef3a711c1f80efbec59bde?width=1200&format=jpeg",
+    "publishedAt": "2025-10-15T08:57:52Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/jensen-huang-hot-ai-startups-nvidia-vibe-coding-cursor-openai-2025-10"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
+  },
+  {
+    "title": "Inside the messy relationship between a medical records giant and healthcare's hottest AI startup",
+    "description": "AI medical scribe company Abridge's closest partner and former shareholder, health records giant Epic, has become its biggest threat.",
+    "content": "Abridge CEO Dr. Shiv Rao. Abridge partnered with Epic in 2023 in a watershed moment for the startup. Two years later, Epic has become its most formidable competitor.Taylor Hill/Getty Images\r\n<ul><li>\u2026 [+11249 chars]",
+    "url": "https://www.businessinsider.com/inside-messiest-relationship-in-healthcare-ai-abridge-epic-2025-9",
+    "image": "https://i.insider.com/68d2fd62183847aa39d7528d?width=1200&format=jpeg",
+    "publishedAt": "2025-09-25T09:00:02Z",
+    "source": {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/inside-messiest-relationship-in-healthcare-ai-abridge-epic-2025-9"
+    },
+    "matched_icp": "Healthcare AI Pioneer"
   }
 ]

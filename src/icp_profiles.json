@@ -1,40 +1,112 @@
 {
   "ideal_customer_profiles": [
     {
-      "icp_name": "Telecom Innovator",
+      "icp_name": "Telecom AI Innovator",
       "industry_vertical": [
         "Telecommunications"
       ],
-      "location": "India",
+      "location_cities": [
+        "Bengaluru",
+        "Mumbai",
+        "Hyderabad"
+      ],
       "key_challenges": [
-        "Modernizing legacy systems to improve service delivery",
-        "Enhancing customer engagement through digital channels",
-        "Automating processes to reduce operational costs"
+        "legacy system modernization",
+        "customer engagement enhancement",
+        "AI-driven sales optimization"
       ],
       "buying_signals": [
-        "network upgrade",
-        "customer experience technology",
-        "partnership technology firm",
-        "digital transformation conference"
+        "investing in AI solutions",
+        "partnering with AI startups",
+        "launching AI customer service"
       ]
     },
     {
-      "icp_name": "Financial Services Transformer",
+      "icp_name": "Digital-First Financial Services",
       "industry_vertical": [
         "Financial Services",
         "Insurance"
       ],
-      "location": "India",
+      "location_cities": [
+        "Mumbai",
+        "Delhi",
+        "Chennai"
+      ],
       "key_challenges": [
-        "Transforming outdated systems to comply with new regulations",
-        "Developing user-centric digital products to attract younger demographics",
-        "Leveraging AI to optimize customer service and sales processes"
+        "data-driven decision making",
+        "automating claims processing",
+        "enhancing risk analysis with AI"
       ],
       "buying_signals": [
-        "launch new digital product",
-        "digital transformation budget",
-        "consulting firm innovation",
-        "improving customer digital experience"
+        "implementing AI analytics",
+        "expanding AI teams",
+        "integrating AI into operations"
+      ]
+    },
+    {
+      "icp_name": "E-commerce Personalization Leader",
+      "industry_vertical": [
+        "Retail",
+        "E-commerce"
+      ],
+      "location_cities": [
+        "Pune",
+        "Bengaluru",
+        "Gurgaon"
+      ],
+      "key_challenges": [
+        "improving customer experience",
+        "inventory management with AI",
+        "personalization at scale"
+      ],
+      "buying_signals": [
+        "adopting AI chatbots",
+        "enhancing AI algorithms",
+        "sourcing AI-based solutions"
+      ]
+    },
+    {
+      "icp_name": "Manufacturing AI Optimizer",
+      "industry_vertical": [
+        "Manufacturing",
+        "Supply Chain"
+      ],
+      "location_cities": [
+        "Ahmedabad",
+        "Kolkata",
+        "Chennai"
+      ],
+      "key_challenges": [
+        "process automation through AI",
+        "predictive maintenance challenges",
+        "supply chain optimization"
+      ],
+      "buying_signals": [
+        "exploring AI for production",
+        "developing smart factories",
+        "integrating AI in logistics"
+      ]
+    },
+    {
+      "icp_name": "Healthcare AI Pioneer",
+      "industry_vertical": [
+        "Healthcare",
+        "Pharmaceuticals"
+      ],
+      "location_cities": [
+        "Bengaluru",
+        "Delhi",
+        "Hyderabad"
+      ],
+      "key_challenges": [
+        "enhancing patient engagement",
+        "analyzing patient data with AI",
+        "streamlining healthcare operations"
+      ],
+      "buying_signals": [
+        "initiating AI trials",
+        "partnering with AI research",
+        "implementing AI diagnostics"
       ]
     }
   ]
